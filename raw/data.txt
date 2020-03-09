@@ -1,0 +1,101 @@
+1. ALL (TODOS) :: CNa mochi-n (1), TNa nochiː (1), NPN nochi-n (1), MNa (i)nochi (1), PNa nochi (1), JNa muchi (1), Pip muchi (1), Poch nochó (1).
+2. ASHES :: CNa nex-tli (1), TNa tlako-nex-tliː (1), NPN tleko-nex-tli (1), MNa kwa-neːx (1), PNa ba-neːx (1), JNa kó-nex-ti (1), Pip nex-ti (1), Poch nox-t (1).
+3. BARK :: CNa eːwa-tl (1), TNa yewa-yu-tl (1), NPN -yewa-yo (1), MNa kwa-kahloː-ʔ (2), PNa -ba-gahlo (2), JNa -sul-koi (3), Pip -eːwa-yu (1).
+4. BELLY :: CNa -iʔte (1), TNa -ihte (1), NPN -ihte, -pox (1), MNa -talax (exterior) (2), PNa -ihti (1), JNa -ihti (1), Pip -ihti (1).
+5. BIG :: CNa weː(i) (1), TNa bieyiː (1), NPN weyi (1), MNa weyi (1), PNa weːy (1), JNa wey (1), Pip weːy (1), Poch huhióm (1).
+6. BIRD :: CNa toːtoː-tl (1), TNa tutu-tl (1), NPN toto-tl (1), MNa toːtoː-ʔ (1), PNa toːto-t (1), JNa tuːru-t (1), Pip tuːtu-t (Santo Domingo de Guzmán), wiːlu-t (Cuisnahuat) (1).
+7. BITE :: CNa -keʔtzom(a) (1), TNa -ketzoma (1), NPN -tlan-kechiya (2), MNa -tan-kwa (3), PNa -tam-ba (3), Pip -tan-kwa (3).
+8. BLACK :: CNa tliːl-tik (1), TNa tlil-tiːk, kapotz-tiːk (1), NPN tlil-tik (1), MNa piːs-tiʔ, chaːpo-tiʔ (2), PNa pis-tik (2), JNa yayák (3), Pip tiːl-tik (Santo Domingo de Guzmán), kuː-tiːl-tik (Cuisnahuat) (1).
+9. BLOOD :: CNa es-tli (1), TNa yes-tliː (1), NPN yes-tli (1), MNa es-ti (1), PNa es-ti (1), JNa es-ti (1), Pip es-ti (1), Poch es-t (1).
+10. BONE :: CNa omi-tl (1), TNa miːmiːte-tl (2), NPN ohmi-tl (1), MNa omi-ʔ (1), PNa omi-t (1), JNa umi-t (1), Pip uːmi-t (1), Poch o-t (1).
+11. BREAST :: CNa -chiːchiːwal (1), TNa -chichiːwal (de mujer) (1), NPN -chichiwal (de mujer) (1), MNa -chiːchiwal (teta) (1), PNa -chichiwal (teta) (1), JNa -chichi (teta) (2), Pip -chiːchih (teta) (2), Poch /no/-tipén (mi pecho) (3).
+12. BURN TR. :: CNa -tlatiaː (1), TNa -tlatia (1), NPN -tititza (2), MNa -tatiá (1), PNa -tata (1), JNa -tati (1), Pip -tatia (1), Poch -tatí (1).
+13. CLAW(NAIL) :: CNa iste-tl (1), TNa iste (1), NPN ist-n (1), MNa isti (1), PNa -isti (1), JNa -isti (1), Pip isti-t (1), Poch ox-t (1).
+14. CLOUD :: CNa mix-tli (1), TNa mex-tliː (1), NPN (tepe)-mex-tli (1), MNa mix-ti (1), PNa miːx-ti (1), Pip mix-ti (1), Poch pix-t? (2).
+15. COLD :: CNa iːtz-tik, sesek (2), TNa itz-tiːk (1), NPN itz-tik (1), MNa seseːʔ (2), PNa seseːk (2), JNa sesek (2), Pip sesek (2), Poch piná, kug’li (3).
+16. COME (defective verb, preterit-as-present forms) :: CNa witz (1), TNa ibitz (1), NPN witz (1), MNa wiːʔ (1), PNa wiːtz (1), JNa ñotz (2), Pip wiːtz (1), Poch witz (1).
+17. DIE :: CNa mik(i) (1), TNa miːkiː (1), NPN miki (1), MNa miki (1), PNa migi (1), JNa miki (1), Pip miki (1), Poch mok (1).
+18. DOG :: CNa chichi-(toːn) (1), TNa chiːchiː-tu (1), NPN chichi (1), MNa peːlo (Spanish loan) (-1), PNa pelo (Spanish loan) (-1), JNa chuchu (1), Pip peːlu (Spanish loan) (1), Poch tachóm (2).
+19. DRINK :: CNa -on-iː (thither-drink) (1), TNa -on-i (1), NPN -on-i (1), MNa -on-i-á (1), PNa -on-i (1), JNa /xi-k/-i (impera- tive form) (1), Pip -un-i (1), Poch tem-í (mouth-drink?) (1).
+20. DRY :: CNa waːk-ki (1), TNa wah-kiː (1), NPN wah-ki (1), MNa waːk-toʔ (1), PNa waːk-tok (1), JNa wak-tuk (1), Pip waːk-tuk (1), Poch wak (1).
+21. EAR :: CNa nakas-tli (1), TNa -nakas (1), NPN -nakas (1), MNa nakas (1), PNa -nagas (1), JNa -nakas (1), Pip -nakas (1), Poch nekés-t (1).
+22. EARTH :: CNa tlaːl-li (1), TNa tlöliː (1), NPN tlali (1), MNa taːhli (1), PNa taːhli (1), JNa tahli (1), Pip taːl (1), Poch tal (1).
+23. EAT :: CNa -kwaː (1), TNa -kwa (1), NPN -kwa (1), MNa -kwa (1), PNa -baː (1), JNa -bwaː (1), Pip kwa (1), Poch kwa (1).
+24. EGG :: CNa toːtol-te-tl (1), TNa tutol-tetl (1), NPN totol-te-tl (1), MNa teksis (2), PNa teksis (2), JNa pil-tzin (3), Pip teksis-ti (2), Poch ti-tó-t (4).
+25. EYE :: CNa -iːx-teloloʔ (1), TNa -ix-telolo (1), NPN -ix-telolo (1), MNa -iːx (1), PNa -iːx-tololo (1), JNa -iːx (1), Pip -iːx (1), Poch ix-totolú-t (1).
+26. FAT N. :: CNa chiyaːwis-tli (-1), TNa manteka (Spanish loan), chiːyöwa (-1), NPN chiak-tli (-1), MNa -tomahka (su gordura), xeːpoh (de res, Spanish loan) (-1), PNa mantega (Spanish loan), pagax (Spanish loan) (-1), JNa manteka (Spanish loan) (-1).
+27. FEATHER :: CNa ihwi-tl (1), TNa tohmitl (su pluma, pelo: itohmeyo) (2), NPN ihwi-tl (1), MNa tzohmi-ʔ (3), PNa tzohmi-t (3), JNa iy-uhwi-yu (1), Pip -uhmi-yu (4).
+28. FIRE :: CNa tle-tl (1), TNa tle-tzin-tliː (1), NPN tle-tl (1), MNa tiʔ-ti (1), PNa ti-t (1), JNa ti-t (1), Pip tiː-t (1), Poch te-t (1).
+29. FISH :: CNa mich-in (1), TNa miːchiː (1), NPN michi (1), MNa toːpoh (2), PNa toːpoh (2), JNa xeːneh (3), Pip michin (1), Poch michóm (1).
+30. FLY V. :: CNa patlaːn(i) (1), TNa patlöni (1), NPN patlani (1), MNa pataːni (1), PNa pataːni (1), JNa parani (1), Pip pataːni (1), Poch patánk (1).
+31. FOOT :: CNa (i)kxi-tl (1), TNa -ikxiː (1), NPN -ikxi (1), MNa ikxi (1), PNa -ikxi (1), JNa -ikxi (1), Pip (i)kxi (1), Poch /no/-xói ‘mi pie’ (2).
+32. FULL :: CNa teːn-tok (1), TNa tien-tiːka (1), NPN ten-tok, temi (1), MNa teːn-toʔ (1), PNa teːn-tok (1), JNa neː-tik (2), Pip teːn-tuk (1).
+33. GIVE :: CNa -maka (1), TNa -maka (1), NPN -maka (1), MNa -maka (1), PNa -maga (1), JNa -ma (1), Pip -maka (1), Poch -meká (1).
+34. GOOD :: CNa kwal-li (1), TNa kwaliː (1), NPN kwali (1), MNa yeːk-ti (2), PNa yek-ti (2), JNa yek-ti (2), Pip yeːk (2), Poch ulík (cf. CNa weːlik ‘something delicious, pleasing’) (3).
+34. GOOD :: CNa yek-tli (2).
+35. GREEN :: CNa xoxok-tik (1), TNa xoxok-tiːk (1), NPN xoxok-tik (1), MNa xoxok-tiʔ (1), PNa xoxok-tik (1), JNa xuxuí-k (2), Pip xuxuwi-k (2), Poch xwi (3).
+36. HAIR :: CNa tzon-tli (1), TNa tzon-tliː (1), NPN tzon-tli (1), MNa tzon-kal (2), PNa tzon-gal (2), JNa tzun-ti (1), Pip tzun-kal (2), Poch tzon (1).
+37. HAND :: CNa -maː (1), TNa -mö (1), NPN -ma-n (1), MNa mayiʔ (1), PNa -maː (1), JNa -maː-n (1), Pip -mey (1), Poch maí (1).
+38. HEAD :: CNa kwaː(i)-tl (2), TNa -tzon-teko (1), NPN -tzon-teko (1), MNa -tzon-tekon (1), PNa -tzon-tegon (1), JNa tzun-tekon (1), Pip tzun-tekuma-t (1), Poch kwaí-t (2).
+39. HEAR :: CNa -kak(i) (1), TNa -kakiː (1), NPN -kaki (1), MNa -kaki (1), PNa -gagi (1), JNa -kai (1), Pip -kaːki (1), Poch -kekí (1).
+40. HEART :: CNa yoːl-li (1), TNa yuloh-tliː (1), NPN -yol-o (1), MNa -yaːlmah (Spanish loan) (-1), PNa -alma (Spanish loan) (-1), JNa yuh-lu (1), Pip -yu(ː)l (1), Poch /n/-olyú (mi corazón) (1).
+41. HORN :: CNa kwaːkwaw(i)-tl (1), NPN -kwakow (1), MNa kwaːkwa (1), PNa -baːbaː (1), JNa kokoit (1), Pip -kachoh (Spanish loan) (-1).
+42. I :: CNa neʔwaː-tl (1), TNa naha (1), NPN nehwa-tl (1), MNa neh (1), PNa neha (1), JNa nehe (1), Pip na ~ nah ~ naha (1), Poch nen (1).
+43. KILL :: CNa -mikiː-tiaː (1), TNa -miːk-tiːa (1), NPN -mik-tia (1), MNa -mik-tia (1), PNa -mik-tia (1), JNa -mik-ti (1), Pip -mik-tia (1), Poch moktí (1).
+44. KNEE :: CNa tlan-kwai- (1), TNa -tlan-kwate (1), NPN -tlan-kwa (1), MNa tan-kwaː-ʔ (1), PNa -tam-ba (1), JNa -tam-bwa-n (1), Pip -tewahka (2).
+45. KNOW :: CNa mat(i) (1), TNa -matiː (1), NPN -mati (1), MNa -mati (1), PNa -mati (1), JNa -ma (1), Pip -mati (1), Poch metí (1).
+46. LEAF :: CNa iswa-tl (1), TNa xiːbiːtl (2), NPN xiwi-tl (2), MNa iswaʔ (1), PNa -iswa-t (1), JNa iswa-t (1), Pip iswa-t (1), Poch xut (2).
+47. LIE (SE ACUESTA) :: CNa mo-teːka (1), TNa mo-tieka (1), NPN mo-teka (1), MNa mo-teːca (1), PNa mo-tega (1), JNa mu-reka-k (acos- tado) (1), Pip mu-teːka (1), Poch teké (1).
+48. LIVER :: CNa eːl-li (-1), NPN -yel-tlapach (-1), MNa -yoːl (-1), Pip -el-tapach (-1).
+49. LONG :: CNa weːiyak (1), TNa beyak (1), NPN weyak (1), MNa weːyaktiʔ (1), PNa weːyak (1), JNa weyak (1), Pip weyak (1).
+50. LOUSE :: CNa atemi-tl (1), TNa atiːmiː-tl (1), NPN pioho (Spanish loan) (-1), MNa atimiʔ (1), PNa aːtin (1), JNa aːtin (1), Pip atime-t (1), Poch atóm-t (1).
+51. MAN :: CNa taːka-tl, okich-tli (1), TNa umbre (Spanish loan), tlöca-tl (1), NPN tlakatl (1), MNa taːga-ʔ (1), PNa taːga-t (1), JNa taːka-t (1), Pip taːka-t (1), Poch okóx-t, teké-t (1).
+52. MANY (MUCHOS) :: CNa miakiːn ~ miakiːntiːn ~ miaktiːn ~ miːmiak (1), TNa meyak (1), NPN miak (1), MNa miaʔ (mucho), miakeh (muchos) (1), PNa miak (muchos) (1), JNa miakpa (muchos) (1), Pip miyak (mucho, muchos, bastante) (1), Poch asók (mucho, muchos, muy) (2).
+53. MEAT :: CNa naka-tl (1), TNa naka-tl (1), NPN naka-tl (1), MNa naka-ʔ (1), PNa naga-t (1), JNa naka-t (1), Pip naka-t (1), Poch neké-t (esta carne está manida), tutú-t (carne para comer) (1).
+54. MOON :: CNa meːtz-tli (1), TNa mietz-tliː (1), NPN metz-tli (1), MNa meːtz-ti, to-yeː-tzin (lit. ‘nuesta madrecita’) (1), PNa meːs-ti, to-yeː-tzin (1), JNa meːtz-ti (1), Pip meːtz-ti (1), Poch mes-t (1).
+55. MOUNTAIN :: CNa tepeː-tl (1), TNa tepie-tl (1), NPN tepe-tl (1), MNa tepeː-ʔ (1), PNa tepeː-t (1), Pip tepeː-t (1).
+56. MOUTH :: CNa kam(a)-tl (1), TNa -kama-k (1), NPN -kama-k (1), MNa -teːn (2), PNa -teːn (2), JNa -teːn (2), Pip -teːn (2), Poch ten (2).
+57. NAME :: CNa toːkaː(i)-tl (1), TNa -tukö (1), NPN tokah-tli (1), MNa toːkaː-ʔ (1), PNa -toga (1), JNa tuwa-n (1), Pip -tuːkey (1), Poch kul (2).
+58. NECK :: CNa kech-tli (1), TNa -kech-kochtla (1), NPN -kech (1), MNa -kech (1), PNa -geːch (1), JNa -kech (1), Pip -kech-kuːyu (1), Poch kox-t (pescuezo) (1).
+59. NEW :: CNa yankwi-k (1), TNa yankwiː-k (1), NPN yankwi-k (1), MNa yamkwi-ʔ (1), PNa yambi-k (1), JNa yambwi-k (1), Pip yankwi-k (1).
+60. NIGHT :: CNa yowal-li (1), TNa yowaliː (1), NPN yowali (1), MNa yowal (1), PNa ta-yoá (2), JNa ta-yuwa-k (2), Pip ta-yuwa (2), Poch owél (1).
+61. NOSE :: CNa yak(a)-tl (1), TNa -yeka-tzol (1), NPN -yeka-k (1), MNa yak-ti (1), PNa yaga-t (1), JNa -yak (1), Pip -yak (1), Poch yeké-t (1).
+62. NOT :: CNa aʔmoː (1), TNa amo (1), NPN ahmo (1), MNa ayaːʔ, amo (1), PNa amó, ayá, a-té (2), JNa te (2), Pip teː tesu (2), Poch as (3).
+63. ONE :: CNa seː (bound form: sem) (1), TNa sie, sen-te (1), NPN seya (1), MNa seː (1), PNa se (1), JNa se (1), Pip seː (1), Poch se (1).
+64. PERSON :: CNa tlaːka-tl (-1), TNa hiente (Spanish loan), tlöka (-1), MNa hente (Spanish loan) (-1), PNa kristianoh (Spanish loan) (-1), JNa yohomeh (-1), Pip kristanuh (Spanish loan) (-1).
+65. RAIN :: CNa kiyaw(i)-tl (1), TNa kiːyabiː-tl (1), NPN kiyawi-tl (1), MNa kiahuaː-ʔ ~ tiahuaː-ʔ (1), PNa aː-tzona-t (2), JNa chimaː-t (3), Pip aː-t (4), Poch yek-t (5).
+66. RED :: CNa chiː-chiːl-tik (cf. chi:l-li ‘chili pepper’) (1), TNa chi-chi-ltiːk (1), NPN chi-chil-tik (1), MNa chiːl-tiʔ (1), PNa ta-tawi-k (cf. CNa tla:w(i)-tl ‘red ochre’) (2), JNa traik (2), Pip chiːl-tik (1).
+67. ROAD :: CNa oʔ-tli (1), TNa oh-tliː (1), NPN oh-tli (1), MNa oh-ti (1), PNa oh-ti (1), JNa uh-ti (1), Pip uh-ti (1), Poch ot’kán (1).
+68. ROOT :: CNa nelwa-tl (1), TNa nelwa-yu-tl (1), NPN nelwa-tl (1), MNa nelwa-ʔ (1), PNa ba-takson (2), JNa talwa-t (3), Pip nelwa-t (1).
+69. ROUND :: CNa yawal-tik (cosa redonda como rodela) (1), TNa yewal-tiːk (1), NPN yewal-tik (1), MNa yawal-tiʔ (plano), mimil-tiʔ (esférico) (1), PNa monso (a loan?) (2), JNa tulutz-tik (3), Pip yawal-nah (circular), mi-mil-nah (rollizo), ul-ul-nah (esférico) (1).
+70. SAND :: CNa xaːl-li (1), TNa xöliː (1), NPN xali (1), MNa xaːhli (1), PNa xaːhli (1), JNa xaːhli (1), Pip aː-xaːl (1).
+71. SAY :: CNa (i)ʔtoaː (to say something), (i)lwiaː (to say something to someone) (1), TNa -htoa (1), NPN -ihtoa (1), MNa k-ihtoa, k-ihliá (algo a alguien) (1), PNa -ihtoa, -ihlia (1), JNa -ihli (2), Pip ilwia (2), Poch ití (decirle), nuká (de- cirlo) (3).
+72. SEE :: CNa (i)tta (1), TNa -hta (1), NPN -ita (1), MNa -ita (1), PNa -ita (1), JNa -ira (1), Pip ita (1), Poch itá (1).
+73. SEED :: CNa ach-tli (1), TNa xiːn-öch-tliː (1), NPN achtli, xin-achtli (1), MNa -yoːl (2), PNa -yoːl (2), JNa yuhlu (2), Pip iːx (3), Poch ax-t (cf. /no/-achú ‘mi semilla’) (1).
+74. SIT :: CNa mo-tlaːliaː (1), TNa mo-tlöliːa (1), NPN mo-tlalia (1), MNa mo-taːliá (1), PNa mo-taːli/mo-tzogoloa (1), JNa mu-ralih-tuk (sentado) (1), Pip mu-taːlia (1), Poch metzá (2).
+75. SKIN :: CNa eːwa-tl (1), TNa -yewayo, -kwiːtlaxkol (1), NPN -yewayo (1), MNa kahloː-ʔ (2), PNa -betax (3), JNa bwéraxti (3), Pip -eːwayu (1), Poch kwetéx-t (3).
+76. SLEEP :: CNa koch(i) (1), TNa kochiː (1), NPN kochi (1), MNa kochi (1), PNa -gochi (1), JNa -kuchi (1), Pip kuchi (1), Poch kochí (1).
+77. SMALL :: CNa tepi-toːn, tepi-tzin (1), TNa tzitziːkiː-tzi (2), NPN kitzinin (3), MNa aliːm-pa (4), PNa chihchinti-tzin (5), JNa tziri-tuk (6), Pip achih-chin, atzih-tzin (7), Poch nixtún (pequeño, poquito), túchi (pequeño) (8).
+78. SMOKE :: CNa poːk-tli (1), TNa puk-tliː (1), NPN pok-tli (1), MNa poːk-ti (1), PNa poːk-ti (1), JNa puːk-ti (1), Pip puk-ti (1), Poch a-potók-t (2).
+79. STAND :: CNa mo-ketza(a) (1), TNa mo-ketza (1), NPN mo-tel-ketza, mo-ketza (1), MNa mo-ketza (1), PNa mo-getza (1), JNa ihkatuk (parado) (-1), Pip mu-ketza (1), Poch x-mo-ktzé (¡Párate!) (1).
+80. STAR :: CNa siːtlal-in (1), TNa sitlaliː (1), NPN sitlali (1), MNa siːtalin (1), PNa lusero (Spanish loan) (-1), JNa siːtal (1), Pip siːtal (1).
+81. STONE :: CNa te-tl (1), TNa tie-te-tu (1), NPN te-tl (1), MNa teʔ-ti (1), PNa te-t (1), JNa xaːl-te-t (1), Pip te-t (1), Poch to-t (1).
+82. SUN :: CNa toːna-tiw (1), TNa tunaliː (1), NPN tonal-tzin-tli (1), MNa to-tah-tziːn (lit. ‘our little (rever.) father’) (2), PNa toːnati (1), JNa rontin (1), Pip tuːnal (1), Poch tunél (1).
+83. SWIM :: CNa aː-wilaːn(a), m-aː-neloaː (1), TNa m-ö-biːlöna (1), NPN m-al-tiya (2), MNa aː-pataːni (water-fly), aː-hkitiá (ir flotando) (3), PNa -aːhkia (3).
+84. TAIL :: CNa kwitlapil-li (1), TNa -kwiːtlapiːl (1), NPN -kwitlapil (1), MNa kwitapiːl (1), PNa -bitapil (1), JNa -bwirapil (1), Pip -kwitlapil (1).
+85. THAT :: CNa in-oːn (1), TNa iːn-u, nieka, iːnu nieka (1), NPN in-on (1), MNa in-eːpa (2), PNa hoːn (1), JNa huːni (1), Pip uni (1), Poch namél (3).
+86. THIS :: CNa in-iːn (1), TNa in-i, nönka, in-i nönka (1), NPN in-in (1), MNa in-iːn (1), PNa hiːn (1), JNa hiːni (1), Pip ini (1), Poch iná (1).
+87. THOU :: CNa teʔwaː-tl (1), TNa taha (1), NPN tehwa (1), MNa teh (1), PNa teha (1), JNa tehe (1), Pip ta(h) ~ taha (1), Poch mwen (2).
+88. TONGUE :: CNa nene-pil-li (1), TNa -nenepiːl (1), NPN -nenepil (1), MNa lenwa (Spanish loan) (-1), PNa -nenepil (1), JNa -neːnepil (1), Pip -nenepil (1), Poch nenepíl (1).
+89. TOOTH :: CNa tlan-tli (1), TNa -tlan-koch (1), NPN -tlan (1), MNa tan-ti (1), PNa -tan (1), JNa -taːn (1), Pip -tan (1).
+90. TREE :: CNa kwaw(i)-tl (1), TNa kwabiː-tl (1), NPN kowi-tl (1), MNa kwawi-ʔ (1), PNa bawi-t (1), JNa koi-t (1), Pip kwawi-t (1), Poch kwagú-t (1).
+91. TWO :: CNa oːme (1), TNa ume (1), NPN ome (1), MNa oːme (1), PNa oːme (1), JNa uːme (1), Pip uːme (1), Poch omém (1).
+92. WALK (GO) :: CNa neʔ-nemi (1), TNa neh-nemiː (1), NPN neh-nemi (1), MNa neh-nemi (1), PNa neh-nemi (1), JNa neh-nemi (1), Pip neh-nemi (1), Poch uí (2).
+93. WARM (HOT) :: CNa to-toːn-ki (hot), aː-yamaːnil-aː-tl (tepid water), yamaːn-ki (warm of water, cf. <yamanqui ic mixamia> [Primeros Memoriales 81r]) (1), TNa totun-kiː (caliente), yemön-kiː (blando, suave, tierno, tibio) (1), NPN totonki (caliente), yemanki (agua, también suave) (1), MNa totoːniʔ (caliente), hokox (tibio, calentito: a loan?) (1), PNa totoːnik (caliente) (1), JNa truːnik (caliente), yamanik (blando) (1), Pip tutuːnik (caliente), yamanka (tibio) (1), Poch tuní (caliente) (2).
+94. WATER :: CNa aː-tl (1), TNa ö-tzin-tli (reverential diminutive suffix -tzin) (1), NPN a-tl (1), MNa aːʔ-ti (1), PNa aː-t (1), JNa maː-t (2), Pip aː-t (1), Poch a-t (1).
+95. WE :: CNa teʔwaːn (1), TNa tehwa, tehwante (1), NPN tehwan, tehwanten (todos) (1), MNa tehameh (incl.), nehameh (excl.) (1), PNa tehameh (1), JNa tohomen (1), Pip tehemet (1), Poch twén (1).
+96. WHAT :: CNa tle(ʔ) (1), TNa tliniːnu (1), NPN tlen (1), MNa teː (1), PNa teː (1), JNa tai (1), Pip taː (1), Poch te (1).
+97. WHITE :: CNa istaːk (1), TNa chipːpöwak, istök (1), NPN istak (1), MNa istaːʔ, ichkatiʔ (1), PNa istaːk (1), JNa istaːk (1), Pip istak (1), Poch chupék (cf. CNa chipaːwak) (2).
+98. WHO :: CNa aːk (1), TNa ökiːnu (1), NPN akin (1), MNa aːʔ (1), PNa aːk (1), JNa aik (1), Pip kaː ~ kah ~ kahuni (2), Poch ak (1).
+99. WOMAN :: CNa siwaː-tl ~ sowa-tl (1), TNa sowa-tl (1), NPN siwa-tl (1), MNa siwaː-ʔ (1), PNa soáː-t (1), JNa suwa-t (1), Pip siwaː-t (1), Poch g’las-t (2).
+100. YELLOW :: CNa kos-tik (1), TNa kostiːk (1), NPN kostik (1), MNa kostiʔ (1), PNa gostik (1), JNa yuksik (2), Pip tultik (3).
