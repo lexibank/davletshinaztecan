@@ -15,10 +15,10 @@ Available online at https://doi.org/10.31826/jlr-2012-080106
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
-- **Varieties:** 8
+- **Varieties:** 9
 - **Concepts:** 100
-- **Lexemes:** 766
-- **Sources:** 8
+- **Lexemes:** 854
+- **Sources:** 9
 - **Synonymy:** 1.00
-- **Cognacy:** 766 cognates in 173 cognate sets (55 singletons)
-- **Cognate Diversity:** 0.11
+- **Cognacy:** 854 cognates in 173 cognate sets (54 singletons)
+- **Cognate Diversity:** 0.10

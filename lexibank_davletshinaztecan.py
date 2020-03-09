@@ -40,7 +40,7 @@ class Dataset(BaseDataset):
         for language in self.languages:
             sources[language["ID"]] = language['Source']
             args.writer.add_language(**language)
-        concepts = {}
+        concepts, proto = {}, {}
         for concept in self.concepts:
             idx = '{0}_{1}'.format(
                     concept['NUMBER'],
@@ -51,6 +51,7 @@ class Dataset(BaseDataset):
                     ProtoAztecan=concept['PROTO_AZTECAN'],
                     Number=concept['NUMBER'])
             concepts[concept['NUMBER']] = idx
+            proto[concept['NUMBER']] = concept['PROTO_AZTECAN']
         
         cogidx = 0
         with open(self.raw_dir.joinpath('data.txt').as_posix()) as f:
@@ -73,5 +74,21 @@ class Dataset(BaseDataset):
                                 Cognateset_ID=cogid+cogidx,
                                 Source='Davletshin2012')
                     cogids += [cogid]
+
+                # add proto-aztecan form
+                if proto[number].strip() != '?':
+                    for lex in args.writer.add_forms_from_value(
+                            Language_ID='PA',
+                            Parameter_ID=concepts[number],
+                            Value=proto[number],
+                            Source=sources['PA']
+                            ):
+                        args.writer.add_cognate(
+                                lexeme=lex,
+                                Cognateset_ID=sorted(
+                                    cogids,
+                                    key=lambda x: cogids.count(x), 
+                                    reverse=True)[0]+cogidx)
+
                 cogidx += max(cogids)
 
