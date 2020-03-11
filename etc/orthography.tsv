@@ -1,0 +1,55 @@
+Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+*	NULL	NULL	NULL	87	U+002A	"*tlahi-tl,*wehey,*ɨs-tlɨ"	PA
+?	NULL	NULL	NULL	11	U+003F	"*in- ?,*nelwa-tl ?,pix-t?"	PA,Poch
+-	+	_	Marker	675	U+002D	"-un-i,toːtoː-tl,tzon-kal"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+a	a	A	Vowel	405	U+0061	"-kwitlapil,aʔmoː,yewal-tik"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+b	b	P	Consonant	25	U+0062	"-ba-gahlo,-bwaː,bawi-t"	JNa,PNa,TNa
+c	c	C	Consonant	1	U+0063	"mo-teːca"	MNa
+e	e	E	Vowel	199	U+0065	"-yewa-yo,mo-getza,yewa-yu-tl"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+g	g	K	Consonant	20	U+0067	"-geːch,-maga,mo-getza"	MNa,PNa,Poch
+i	i	I	Vowel	434	U+0069	"istaːʔ,itá,piná"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+k	k	K	Consonant	355	U+006B	"-kwiːtlapiːl,mu-ralih-tuk,tlil-tik"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+l	l	L	Consonant	330	U+006C	"tunél,xaːl-li,yawal-tiʔ"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+m	m	M	Consonant	186	U+006D	"-maga,-maː,-tam-ba"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+n	n	N	Consonant	246	U+006E	"*to-toːnɨ-k ?,neh,xiːn-öch-tliː"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+o	o	U	Vowel	174	U+006F	"*mochɨ-m,*teːn-tok,yowal"	CNa,JNa,MNa,NPN,PA,PNa,Poch,TNa
+p	p	P	Consonant	61	U+0070	"-yel-tlapach,aː-pataːni,pok-tli"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+r	r	R	Consonant	15	U+0072	"-bwirapil,mu-ralih-tuk,truːnik"	JNa,PNa,Pip,TNa
+s	s	S	Consonant	101	U+0073	"*ɨs-tlɨ,kristanuh,teksis-ti"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+t	t	T	Consonant	677	U+0074	"kwaw-tl,omi-tl,tzon-kal"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+u	u	Y	Vowel	78	U+0075	"lusero,ta-yuwa,tzun-tekon"	JNa,MNa,PNa,Pip,Poch,TNa
+w	w	W	Consonant	165	U+0077	"kwaːkwaw-tl,wah-kiː,wak-tuk"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+x	x	G	Consonant	75	U+0078	"okóx-t,xaːhli,xuxuwi-k"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+y	j	J	Consonant	102	U+0079	"-yewayo,-yol-o,yes-tli"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+z	z	S	Consonant	62	U+007A	"mo-getza,mo-ketza,to-tah-tziːn"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+á	á/a	A	Vowel	12	U+00E1	"-on-i-á,iná,metzá"	JNa,MNa,PNa,Poch
+é	é/e	E	Vowel	13	U+00E9	"chupék,neké-t,twén"	JNa,Poch
+í	í/i	I	Vowel	14	U+00ED	"-tatí,maí,moktí"	JNa,Poch
+ñ	ɲ	N	Consonant	1	U+00F1	"ñotz"	JNa
+ó	ó/o	U	Vowel	11	U+00F3	"amó,asók,kó-nex-ti"	JNa,PNa,Poch
+ö	ø	U	Vowel	12	U+00F6	"chipːpöwak,mo-tlöliːa,xiːn-öch-tliː"	TNa
+ú	ú/u	Y	Vowel	3	U+00FA	"ix-totolú-t,kwagú-t,nixtún"	Poch
+ə	ə	E	Vowel	3	U+0259	"*kəch-tlɨ,*oːmə,*tə-tl"	PA
+ɨ	ɨ	I	Vowel	56	U+0268	"*kəch-tlɨ,*tliːl-tɨ-k,*yawal-tɨ-k ?"	PA
+ʔ	ʔ	H	Consonant	46	U+0294	"-iːx-teloloʔ,totoːniʔ,waːk-toʔ"	CNa,MNa
+-h	+ h	_ H	Marker Consonant	4	U+002D U+0068	"*-kwa-haː,*-tla-tɨ-ha,*mɨk-tɨ-ha"	PA
+^h	h	H	Consonant	7	U+005E U+0068	"hiente,hoːn,huːni"	JNa,MNa,PNa,Poch,TNa
+ah	a h	A H	Vowel Consonant	21	U+0061 U+0068	"*-kwah,*-mah,ahmo"	JNa,MNa,NPN,PA,PNa,Pip,TNa
+aː	aː	A	Vowel	88	U+0061 U+02D0	"*waːk-,maː-t,tlaːka-tl"	CNa,JNa,MNa,PA,PNa,Pip
+ch	tʃ	T	Consonant	85	U+0063 U+0068	"-chiːchih,chi-chil-tik,chiːchiː-tu"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
+eh	e h	E H	Vowel Consonant	25	U+0065 U+0068	"neh-nemi,nehwa-tl,xeːneh"	JNa,MNa,NPN,PA,PNa,Pip,TNa
+eː	eː	E	Vowel	59	U+0065 U+02D0	"eːl-li,teː tesu,yeːk"	CNa,JNa,MNa,PA,PNa,Pip
+g’	g’	K	Consonant	1	U+0067 U+2019	"g’las-t"	Poch
+ih	i h	I H	Vowel Consonant	17	U+0069 U+0068	"*-ihi,-ihti,achih-chin"	CNa,JNa,MNa,NPN,PA,PNa,Pip,TNa
+iː	iː	I	Vowel	105	U+0069 U+02D0	"iːn-u,tzon-tliː,yewal-tiːk"	CNa,JNa,MNa,PA,PNa,Pip,TNa
+oh	o h	U H	Vowel Consonant	17	U+006F U+0068	"*oh-tlɨ,kristianoh,ohmi-tl"	JNa,MNa,NPN,PA,PNa,Pip,TNa
+oː	oː	U	Vowel	41	U+006F U+02D0	"hoːn,poːk-tli,toːkaː-ʔ"	CNa,MNa,PA,PNa
+pː	pː	P	Consonant	1	U+0070 U+02D0	"chipːpöwak"	TNa
+t’	tʼ	T	Consonant	1	U+0074 U+2019	"ot’kán"	Poch
+uh	u h	Y H	Vowel Consonant	8	U+0075 U+0068	"huhióm,uh-ti,yuh-lu"	JNa,Pip,Poch
+uː	uː	Y	Vowel	12	U+0075 U+02D0	"-kech-kuːyu,puːk-ti,tuːtu-t"	JNa,Pip
+áː	áː/aː	A	Vowel	1	U+00E1 U+02D0	"soáː-t"	PNa
+əh	ə h	E H	Vowel Consonant	2	U+0259 U+0068	"*təha,*təha-mɨ-t"	PA
+ɨh	ɨ h	I H	Vowel Consonant	3	U+0268 U+0068	"*-kɨh-tzoma,*-ɨhtɨ,*nɨh-nɨmi"	PA
+-ht	+ h t	_ H T	Marker Consonant Consonant	2	U+002D U+0068 U+0074	"-hta,-htoa"	TNa
+aːh	aː h	A H	Vowel Consonant	7	U+0061 U+02D0 U+0068	"*toːkaːhɨ-tl,taːhli,xaːhli"	JNa,MNa,PA,PNa

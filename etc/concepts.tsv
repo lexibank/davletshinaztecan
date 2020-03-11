@@ -1,101 +1,101 @@
-NUMBER	ENGLISH	PROTO_AZTECAN	
-1	all (todos)	*mochɨ-m	
-2	ashes	*nɨx-tlɨ	
-3	bark	*ɨwaː-yoː-tl	
-4	belly	*-ɨhtɨ	
-5	big	*wehey(ɨ)	
-6	bird	*toːtoː-tl	
-7	bite	*-kɨh-tzoma	
-8	black	*tliːl-tɨ-k	
-9	blood	*ɨs-tlɨ	
-10	bone	*oːmɨ-tl	
-11	breast	*-chiːchiːwal	
-12	burn tr.	*-tla-tɨ-ha	
-13	claw(nail)	*-ɨstɨ	
-14	cloud	*mix-tlɨ	
-15	cold	*sese-k	
-16	come	*wiːtz (preterit-as-present form)	
-17	die	*mɨki	
-18	dog	?	
-19	drink	*-ihi	
-20	dry	*waːk-	
-21	ear	*nakas-tlɨ	
-22	earth	*tlaːl-lɨ	
-23	eat	*-kwa-haː	
-24	egg	?	
-25	eye	*-iːx	
-26	fat n.	?	
-27	feather	*-ɨ?wɨ	
-28	fire	*tlahi-tl	
-29	fish	*mɨ-chɨ-m	
-30	fly	*patlaːni	
-31	foot	*-ɨkxɨ	
-32	full	*teːn-tok	
-33	give tr.	*-maka	
-34	good	*yeːk-tlɨ	
-35	green	?	
-36	hair	*-tzom	
-37	hand	*-mah	
-38	head	*-kwah	
-39	hear	*-kaki	
-40	heart	*-yoːl	
-41	horn	?	
-42	I	*naha	
-43	kill	*mɨk-tɨ-ha	
-44	knee	*-tlan-kwah	
-45	know	*mati	
-46	leaf	*ɨswa-tl	
-47	lie	*mo-teːka	
-48	liver	?	
-49	long	*weheya-k	
-50	louse	*atɨmɨ-tl	
-51	man	*tlaːka-tl	
-52	many	*mɨyak	
-53	meat	*naka-tl	
-54	moon	*meːtz-tlɨ	
-55	mountain	*tɨpeː-tl	
-56	mouth	*teːn-tlɨ	
-57	name	*toːkaːhɨ-tl	
-58	neck	*kəch-tlɨ	
-59	new	*yankwi-k	
-60	night	*yowal-lɨ	
-61	nose	*yaka-tl	
-62	not	?	
-63	one	*seː(m)	
-64	person	?	
-65	rain	?	
-66	red	*chiːl-tɨ-k ?	
-67	road	*oh-tlɨ	
-68	root	*nelwa-tl ?	
-69	round	*yawal-tɨ-k ?	
-70	sand	*xaːl-lɨ	
-71	say	?	
-72	see	*­ɨhta	
-73	seed	*aːch-tlɨ	
-74	sit	*mo-tlalɨ-ha	
-75	skin	*eːwa-tl	
-76	sleep	*kochɨ	
-77	small	-
-78	smoke	*poːk-tlɨ ?	
-79	stand	*kɨtza	
-80	star	*sitlalɨ-m	
-81	stone	*tə-tl	
-82	sun	?	
-83	swim	?	
-84	tail	*-kwitla-pɨl	
-85	that	*oːn- ?	
-86	this	*in- ?	
-87	thou	*təha	
-88	tongue	*-nɨnɨ-pɨl	
-89	tooth	*-tlan	
-90	tree	*kwa-wɨ-tl	
-91	two	*oːmə	
-92	walk (go)	*nɨh-nɨmi	
-93	warm (hot)	*to-toːnɨ-k ?	
-94	water	*aː-tl	
-95	we	*təha-mɨ-t	
-96	what	*tla-(hi ?)	
-97	white	*istaː-kɨ ?	
-98	who	*aːk	
-99	woman	*si/owaː-tl	
-100	yellow	*kos-tɨ-k ?	
+NUMBER	ENGLISH	PROTO_AZTECAN	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	all (todos)	*mochɨ-m	98	ALL
+2	ashes	*nɨx-tlɨ		
+3	bark	*ɨwaː-yoː-tl		
+4	belly	*-ɨhtɨ		
+5	big	*wehey(ɨ)		
+6	bird	*toːtoː-tl		
+7	bite	*-kɨh-tzoma		
+8	black	*tliːl-tɨ-k		
+9	blood	*ɨs-tlɨ		
+10	bone	*oːmɨ-tl		
+11	breast	*-chiːchiːwal		
+12	burn tr.	*-tla-tɨ-ha		
+13	claw(nail)	*-ɨstɨ		
+14	cloud	*mix-tlɨ		
+15	cold	*sese-k		
+16	come	*wiːtz (preterit-as-present form)		
+17	die	*mɨki		
+18	dog	?		
+19	drink	*-ihi		
+20	dry	*waːk-		
+21	ear	*nakas-tlɨ		
+22	earth	*tlaːl-lɨ		
+23	eat	*-kwa-haː		
+24	egg	?		
+25	eye	*-iːx		
+26	fat n.	?		
+27	feather	*-ɨ?wɨ		
+28	fire	*tlahi-tl		
+29	fish	*mɨ-chɨ-m		
+30	fly	*patlaːni		
+31	foot	*-ɨkxɨ		
+32	full	*teːn-tok		
+33	give tr.	*-maka		
+34	good	*yeːk-tlɨ		
+35	green	?		
+36	hair	*-tzom		
+37	hand	*-mah		
+38	head	*-kwah		
+39	hear	*-kaki		
+40	heart	*-yoːl		
+41	horn	?		
+42	I	*naha		
+43	kill	*mɨk-tɨ-ha		
+44	knee	*-tlan-kwah		
+45	know	*mati		
+46	leaf	*ɨswa-tl		
+47	lie	*mo-teːka		
+48	liver	?		
+49	long	*weheya-k		
+50	louse	*atɨmɨ-tl		
+51	man	*tlaːka-tl		
+52	many	*mɨyak		
+53	meat	*naka-tl		
+54	moon	*meːtz-tlɨ		
+55	mountain	*tɨpeː-tl		
+56	mouth	*teːn-tlɨ		
+57	name	*toːkaːhɨ-tl		
+58	neck	*kəch-tlɨ		
+59	new	*yankwi-k		
+60	night	*yowal-lɨ		
+61	nose	*yaka-tl		
+62	not	?		
+63	one	*seː(m)		
+64	person	?		
+65	rain	?		
+66	red	*chiːl-tɨ-k ?		
+67	road	*oh-tlɨ		
+68	root	*nelwa-tl ?		
+69	round	*yawal-tɨ-k ?		
+70	sand	*xaːl-lɨ		
+71	say	?		
+72	see	*­ɨhta		
+73	seed	*aːch-tlɨ		
+74	sit	*mo-tlalɨ-ha		
+75	skin	*eːwa-tl		
+76	sleep	*kochɨ		
+77	small	-		
+78	smoke	*poːk-tlɨ ?		
+79	stand	*kɨtza		
+80	star	*sitlalɨ-m		
+81	stone	*tə-tl		
+82	sun	?		
+83	swim	?		
+84	tail	*-kwitla-pɨl		
+85	that	*oːn- ?		
+86	this	*in- ?		
+87	thou	*təha		
+88	tongue	*-nɨnɨ-pɨl		
+89	tooth	*-tlan		
+90	tree	*kwa-wɨ-tl		
+91	two	*oːmə		
+92	walk (go)	*nɨh-nɨmi		
+93	warm (hot)	*to-toːnɨ-k ?		
+94	water	*aː-tl		
+95	we	*təha-mɨ-t		
+96	what	*tla-(hi ?)		
+97	white	*istaː-kɨ ?		
+98	who	*aːk		
+99	woman	*si/owaː-tl		
+100	yellow	*kos-tɨ-k ?		
