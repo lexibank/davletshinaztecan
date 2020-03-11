@@ -35,12 +35,14 @@ class Dataset(BaseDataset):
     )
 
     def cmd_makecldf(self, args):
-
+        # Add bibliographic sources and collect them
         args.writer.add_sources()
         sources = {}
         for language in self.languages:
             sources[language["ID"]] = language["Source"]
             args.writer.add_language(**language)
+
+        # Add concepts and collecte them
         concepts, proto = {}, {}
         for concept in self.concepts:
             idx = "{0}_{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
@@ -49,6 +51,8 @@ class Dataset(BaseDataset):
                 Name=concept["ENGLISH"],
                 ProtoAztecan=concept["PROTO_AZTECAN"],
                 Number=concept["NUMBER"],
+                Concepticon_ID=concept['CONCEPTICON_ID'],
+                Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
             )
             concepts[concept["NUMBER"]] = idx
             proto[concept["NUMBER"]] = concept["PROTO_AZTECAN"]
