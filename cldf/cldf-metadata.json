@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/davletshinaztecan",
-            "dc:created": "bda2f34"
+            "dc:created": "afbdee9"
         },
         {
             "rdf:type": "prov:Entity",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 854,
+            "dc:extent": 853,
             "tableSchema": {
                 "columns": [
                     {
@@ -263,7 +263,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 854,
+            "dc:extent": 853,
             "tableSchema": {
                 "columns": [
                     {

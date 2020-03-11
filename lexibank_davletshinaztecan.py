@@ -28,7 +28,7 @@ class Dataset(BaseDataset):
     language_class = CustomLanguage
     form_spec = FormSpec(
         missing_data=["*", "---", "-"],
-        separators=";/,",
+        separators=";/,~",
         strip_inside_brackets=True,
         brackets={"(": ")"},
         first_form_only=True,
