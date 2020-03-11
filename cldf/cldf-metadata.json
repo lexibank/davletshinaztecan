@@ -9,30 +9,37 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Proto-Aztecan languages",
+    "dcat:accessURL": "https://github.com/lexibank/davletshinaztecan",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
-            "dc:created": "v4.0"
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/davletshinaztecan",
+            "dc:created": "1b36ce8"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "CLTS",
+            "rdf:about": "https://github.com/cldf-clts/clts",
+            "dc:created": "v1.4"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.2.1a-305-g9f25da5"
+            "dc:created": "v2.2.1a-90-ge34e420"
         },
         {
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.1-20-gea2ca69"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.1"
+            "dc:description": "3.5.2"
         },
         {
             "dc:title": "python-packages",
@@ -47,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 766,
+            "dc:extent": 854,
             "tableSchema": {
                 "columns": [
                     {
@@ -142,7 +149,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 8,
+            "dc:extent": 9,
             "tableSchema": {
                 "columns": [
                     {
@@ -256,7 +263,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 766,
+            "dc:extent": 854,
             "tableSchema": {
                 "columns": [
                     {

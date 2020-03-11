@@ -1,10 +1,10 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source,Location
-PA,Proto-Aztecan,,,,,,,,Davletshin2012,
-CNa,Classical Nahuatl,,,,,,,,Karttunen1983,Central Mexico
-JNa,Jalupa Nahuat,,,,,,,,Garcia1967,Tabasco
-MNa,Mecayapan Nahuat,,,,,,,,Wolgemuth2002,Veracruz
-NPN,North Puebla Nahuatl,,,,,,,,Brockway2000,North Puebla
-PNa,Pajapán Nahuat,,,,,,,,Garcia1976,Veracruz
-Pip,Pipil,,,,,,,,Campbell1985,El Salvador
-Poch,Pochutec,,,,,,,,Boas1917,Oaxaca
-TNa,Tetelcingo Nahuatl,,,,,,,,Brewer1966,Morelos
+PA,Proto-Aztecan,azte1234,,,,,,,Davletshin2012,
+CNa,Classical Nahuatl,clas1250,,,,,,,Karttunen1983,Central Mexico
+JNa,Jalupa Nahuat,taba1265,,,,,,,Garcia1967,Tabasco
+MNa,Mecayapan Nahuat,isth1242,,,,,,,Wolgemuth2002,Veracruz
+NPN,North Puebla Nahuatl,nort2957,,,,,,,Brockway2000,North Puebla
+PNa,Pajapán Nahuat,isth1241,,,,,,,Garcia1976,Veracruz
+Pip,Pipil,pipi1250,,,,,,,Campbell1985,El Salvador
+Poch,Pochutec,poch1244,,,,,,,Boas1917,Oaxaca
+TNa,Tetelcingo Nahuatl,tete1251,,,,,,,Brewer1966,Morelos
