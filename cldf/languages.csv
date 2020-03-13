@@ -1,10 +1,10 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source,Location
-PA,Proto-Aztecan,azte1234,,,,,,,Davletshin2012,
-CNa,Classical Nahuatl,clas1250,,,,,,,Karttunen1983,Central Mexico
-JNa,Jalupa Nahuat,taba1265,,,,,,,Garcia1967,Tabasco
-MNa,Mecayapan Nahuat,isth1242,,,,,,,Wolgemuth2002,Veracruz
-NPN,North Puebla Nahuatl,nort2957,,,,,,,Brockway2000,North Puebla
-PNa,Pajapán Nahuat,isth1241,,,,,,,Garcia1976,Veracruz
-Pip,Pipil,pipi1250,,,,,,,Campbell1985,El Salvador
-Poch,Pochutec,poch1244,,,,,,,Boas1917,Oaxaca
-TNa,Tetelcingo Nahuatl,tete1251,,,,,,,Brewer1966,Morelos
+PA,Proto-Aztecan,azte1234,Aztec,,,,,Uto-Aztecan,Davletshin2012,
+CNa,Classical Nahuatl,clas1250,Classical Nahuatl,nci,North America,19.72,-96.97,Uto-Aztecan,Karttunen1983,Central Mexico
+JNa,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,North America,17.9371,-93.5688,Uto-Aztecan,Garcia1967,Tabasco
+MNa,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,North America,18.2,-94.7547,Uto-Aztecan,Wolgemuth2002,Veracruz
+NPN,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,North America,20.1356,-97.9814,Uto-Aztecan,Brockway2000,North Puebla
+PNa,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,North America,18.2513,-94.6647,Uto-Aztecan,Garcia1976,Veracruz
+Pip,Pipil,pipi1250,Pipil,ppl,North America,13.8931,-89.443,Uto-Aztecan,Campbell1985,El Salvador
+Poch,Pochutec,poch1244,Pochutec,xpo,North America,15.735073,-96.468076,Uto-Aztecan,Boas1917,Oaxaca
+TNa,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,North America,18.8854,-98.893,Uto-Aztecan,Brewer1966,Morelos

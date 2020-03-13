@@ -51,8 +51,8 @@ class Dataset(BaseDataset):
                 Name=concept["ENGLISH"],
                 ProtoAztecan=concept["PROTO_AZTECAN"],
                 Number=concept["NUMBER"],
-                Concepticon_ID=concept['CONCEPTICON_ID'],
-                Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
+                Concepticon_ID=concept["CONCEPTICON_ID"],
+                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
             )
             concepts[concept["NUMBER"]] = idx
             proto[concept["NUMBER"]] = concept["PROTO_AZTECAN"]

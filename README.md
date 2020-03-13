@@ -19,12 +19,20 @@ Available online at https://doi.org/10.31826/jlr-2012-080106
 
 - **Varieties:** 9
 - **Concepts:** 100
-- **Lexemes:** 853
+- **Lexemes:** 854
 - **Sources:** 9
 - **Synonymy:** 1.00
-- **Cognacy:** 853 cognates in 173 cognate sets (54 singletons)
+- **Cognacy:** 854 cognates in 173 cognate sets (54 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 5,182
+- **Tokens:** 5,186
 - **Segments:** 42 (0 BIPA errors, 0 CTLS sound class errors, 42 CLTS modified)
 - **Inventory size (avg):** 25.11
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Johann-Mattis List | @LinguList | maintainer
+
+
