@@ -1,4 +1,4 @@
-# Proto-Aztecan languages
+# CLDF dataset derived from Davletshin's "Proto-Aztecan languages" from 2012
 
 Cite the source dataset as
 
@@ -33,6 +33,7 @@ Available online at https://doi.org/10.31826/jlr-2012-080106
 
 Name | GitHub user | Role
 --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer
+Johann-Mattis List | @LinguList | maintainer | Author
+Albert Davletshin | | data collection and curation | DataCurator, DataCollector
 
 
