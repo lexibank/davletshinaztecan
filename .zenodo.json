@@ -1,0 +1,39 @@
+{
+    "contributors": [
+        {
+            "name": "Albert Davletshin",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Albert Davletshin",
+            "type": "DataCollector"
+        }
+    ],
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "access_right": "open",
+    "title": "CLDF dataset derived from Davletshin's \"Proto-Aztecan languages\" from 2012",
+    "upload_type": "dataset",
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        },
+        {
+            "name": "Simon J. Greenhill"
+        },
+        {
+            "name": "Tiago Tresoldi"
+        }
+    ],
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Davletshin, Albert (2012): Proto-Uto-Aztecans on their way to the Proto-Aztecan homeland: linguistic evidence. Journal of Language Relationship. 8. 1. 75-92.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
