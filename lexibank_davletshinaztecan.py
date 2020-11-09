@@ -44,18 +44,18 @@ class Dataset(BaseDataset):
 
         # Add concepts and collecte them
         concepts, proto = {}, {}
-        for concept in self.concepts:
-            idx = "{0}_{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
+        for concept in self.conceptlists[0].concepts.values():
+            idx = "{0}_{1}".format(concept.number, slug(concept.english))
             args.writer.add_concept(
                 ID=idx,
-                Name=concept["ENGLISH"],
-                ProtoAztecan=concept["PROTO_AZTECAN"],
-                Number=concept["NUMBER"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                Name=concept.english,
+                ProtoAztecan=concept.attributes["proto_aztecan"],
+                Number=concept.number,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
             )
-            concepts[concept["NUMBER"]] = idx
-            proto[concept["NUMBER"]] = concept["PROTO_AZTECAN"]
+            concepts[concept.number] = idx
+            proto[concept.number] = concept.attributes['proto_aztecan']
 
         cogidx = 0
         with open(self.raw_dir.joinpath("data.txt").as_posix()) as f:

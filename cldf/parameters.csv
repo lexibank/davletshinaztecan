@@ -1,101 +1,101 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,ProtoAztecan,Number
-1_alltodos,all (todos),98,ALL,*mochɨ-m,1
-2_ashes,ashes,,,*nɨx-tlɨ,2
-3_bark,bark,,,*ɨwaː-yoː-tl,3
-4_belly,belly,,,*-ɨhtɨ,4
-5_big,big,,,*wehey(ɨ),5
-6_bird,bird,,,*toːtoː-tl,6
-7_bite,bite,,,*-kɨh-tzoma,7
-8_black,black,,,*tliːl-tɨ-k,8
-9_blood,blood,,,*ɨs-tlɨ,9
-10_bone,bone,,,*oːmɨ-tl,10
-11_breast,breast,,,*-chiːchiːwal,11
-12_burntr,burn tr.,,,*-tla-tɨ-ha,12
-13_clawnail,claw(nail),,,*-ɨstɨ,13
-14_cloud,cloud,,,*mix-tlɨ,14
-15_cold,cold,,,*sese-k,15
-16_come,come,,,*wiːtz (preterit-as-present form),16
-17_die,die,,,*mɨki,17
-18_dog,dog,,,?,18
-19_drink,drink,,,*-ihi,19
-20_dry,dry,,,*waːk-,20
-21_ear,ear,,,*nakas-tlɨ,21
-22_earth,earth,,,*tlaːl-lɨ,22
-23_eat,eat,,,*-kwa-haː,23
-24_egg,egg,,,?,24
-25_eye,eye,,,*-iːx,25
-26_fatn,fat n.,,,?,26
-27_feather,feather,,,*-ɨ?wɨ,27
-28_fire,fire,,,*tlahi-tl,28
-29_fish,fish,,,*mɨ-chɨ-m,29
-30_fly,fly,,,*patlaːni,30
-31_foot,foot,,,*-ɨkxɨ,31
-32_full,full,,,*teːn-tok,32
-33_givetr,give tr.,,,*-maka,33
-34_good,good,,,*yeːk-tlɨ,34
-35_green,green,,,?,35
-36_hair,hair,,,*-tzom,36
-37_hand,hand,,,*-mah,37
-38_head,head,,,*-kwah,38
-39_hear,hear,,,*-kaki,39
-40_heart,heart,,,*-yoːl,40
-41_horn,horn,,,?,41
-42_i,I,,,*naha,42
-43_kill,kill,,,*mɨk-tɨ-ha,43
-44_knee,knee,,,*-tlan-kwah,44
-45_know,know,,,*mati,45
-46_leaf,leaf,,,*ɨswa-tl,46
-47_lie,lie,,,*mo-teːka,47
-48_liver,liver,,,?,48
-49_long,long,,,*weheya-k,49
-50_louse,louse,,,*atɨmɨ-tl,50
-51_man,man,,,*tlaːka-tl,51
-52_many,many,,,*mɨyak,52
-53_meat,meat,,,*naka-tl,53
-54_moon,moon,,,*meːtz-tlɨ,54
-55_mountain,mountain,,,*tɨpeː-tl,55
-56_mouth,mouth,,,*teːn-tlɨ,56
-57_name,name,,,*toːkaːhɨ-tl,57
-58_neck,neck,,,*kəch-tlɨ,58
-59_new,new,,,*yankwi-k,59
-60_night,night,,,*yowal-lɨ,60
-61_nose,nose,,,*yaka-tl,61
-62_not,not,,,?,62
-63_one,one,,,*seː(m),63
-64_person,person,,,?,64
-65_rain,rain,,,?,65
-66_red,red,,,*chiːl-tɨ-k ?,66
-67_road,road,,,*oh-tlɨ,67
-68_root,root,,,*nelwa-tl ?,68
-69_round,round,,,*yawal-tɨ-k ?,69
-70_sand,sand,,,*xaːl-lɨ,70
-71_say,say,,,?,71
-72_see,see,,,*­ɨhta,72
-73_seed,seed,,,*aːch-tlɨ,73
-74_sit,sit,,,*mo-tlalɨ-ha,74
-75_skin,skin,,,*eːwa-tl,75
-76_sleep,sleep,,,*kochɨ,76
-77_small,small,,,-,77
-78_smoke,smoke,,,*poːk-tlɨ ?,78
-79_stand,stand,,,*kɨtza,79
-80_star,star,,,*sitlalɨ-m,80
-81_stone,stone,,,*tə-tl,81
-82_sun,sun,,,?,82
-83_swim,swim,,,?,83
-84_tail,tail,,,*-kwitla-pɨl,84
-85_that,that,,,*oːn- ?,85
-86_this,this,,,*in- ?,86
-87_thou,thou,,,*təha,87
-88_tongue,tongue,,,*-nɨnɨ-pɨl,88
-89_tooth,tooth,,,*-tlan,89
-90_tree,tree,,,*kwa-wɨ-tl,90
-91_two,two,,,*oːmə,91
-92_walkgo,walk (go),,,*nɨh-nɨmi,92
-93_warmhot,warm (hot),,,*to-toːnɨ-k ?,93
-94_water,water,,,*aː-tl,94
-95_we,we,,,*təha-mɨ-t,95
-96_what,what,,,*tla-(hi ?),96
-97_white,white,,,*istaː-kɨ ?,97
-98_who,who,,,*aːk,98
-99_woman,woman,,,*si/owaː-tl,99
-100_yellow,yellow,,,*kos-tɨ-k ?,100
+1_alltodos,all (todos) ,98,ALL,*mochɨ-m,1
+2_ashes,ashes ,646,ASH,*nɨx-tlɨ,2
+3_bark,bark ,1204,BARK,*ɨwaː-yoː-tl,3
+4_belly,belly ,1251,BELLY,*-ɨhtɨ,4
+5_big,big ,1202,BIG,*wehey(ɨ),5
+6_bird,bird ,937,BIRD,*toːtoː-tl,6
+7_bite,bite ,1403,BITE,*-kɨh-tzoma,7
+8_black,black ,163,BLACK,*tliːl-tɨ-k,8
+9_blood,blood ,946,BLOOD,*ɨs-tlɨ,9
+10_bone,bone ,1394,BONE,*oːmɨ-tl,10
+11_breast,breast ,1402,BREAST,*-chiːchiːwal,11
+12_burntr,burn tr. ,141,BURN (SOMETHING),*-tla-tɨ-ha,12
+13_clawnail,claw(nail) ,72,CLAW,*-ɨstɨ,13
+14_cloud,cloud ,1489,CLOUD,*mix-tlɨ,14
+15_cold,cold ,1287,COLD,*sese-k,15
+16_come,come ,1446,COME,*wiːtz (preterit-as-present form),16
+17_die,die ,1494,DIE,*mɨki,17
+18_dog,dog ,2009,DOG,?,18
+19_drink,drink ,1401,DRINK,*-ihi,19
+20_dry,dry ,1398,DRY,*waːk-,20
+21_ear,ear ,1247,EAR,*nakas-tlɨ,21
+22_earth,earth ,1228,EARTH (SOIL),*tlaːl-lɨ,22
+23_eat,eat ,1336,EAT,*-kwa-haː,23
+24_egg,egg ,744,EGG,?,24
+25_eye,eye ,1248,EYE,*-iːx,25
+26_fatn,fat n. ,323,FAT (ORGANIC SUBSTANCE),?,26
+27_feather,feather ,1201,FEATHER,*-ɨ?wɨ,27
+28_fire,fire ,221,FIRE,*tlahi-tl,28
+29_fish,fish ,227,FISH,*mɨ-chɨ-m,29
+30_fly,fly ,1441,FLY (MOVE THROUGH AIR),*patlaːni,30
+31_foot,foot ,1301,FOOT,*-ɨkxɨ,31
+32_full,full ,1429,FULL,*teːn-tok,32
+33_givetr,give tr. ,1447,GIVE,*-maka,33
+34_good,good ,1035,GOOD,*yeːk-tlɨ,34
+35_green,green ,1425,GREEN,?,35
+36_hair,hair ,1040,HAIR,*-tzom,36
+37_hand,hand ,1277,HAND,*-mah,37
+38_head,head ,1256,HEAD,*-kwah,38
+39_hear,hear ,1408,HEAR,*-kaki,39
+40_heart,heart ,1223,HEART,*-yoːl,40
+41_horn,horn ,1393,HORN (ANATOMY),?,41
+42_i,I ,1209,I,*naha,42
+43_kill,kill ,1417,KILL,*mɨk-tɨ-ha,43
+44_knee,knee ,1371,KNEE,*-tlan-kwah,44
+45_know,know ,1410,KNOW (SOMETHING),*mati,45
+46_leaf,leaf ,628,LEAF,*ɨswa-tl,46
+47_lie,lie ,1411,LIE (REST),*mo-teːka,47
+48_liver,liver ,1224,LIVER,?,48
+49_long,long ,1203,LONG,*weheya-k,49
+50_louse,louse ,1392,LOUSE,*atɨmɨ-tl,50
+51_man,man ,1554,MAN,*tlaːka-tl,51
+52_many,many ,1198,MANY,*mɨyak,52
+53_meat,meat ,2615,FLESH OR MEAT,*naka-tl,53
+54_moon,moon ,1313,MOON,*meːtz-tlɨ,54
+55_mountain,mountain ,639,MOUNTAIN,*tɨpeː-tl,55
+56_mouth,mouth ,674,MOUTH,*teːn-tlɨ,56
+57_name,name ,1405,NAME,*toːkaːhɨ-tl,57
+58_neck,neck ,1333,NECK,*kəch-tlɨ,58
+59_new,new ,1231,NEW,*yankwi-k,59
+60_night,night ,1233,NIGHT,*yowal-lɨ,60
+61_nose,nose ,1221,NOSE,*yaka-tl,61
+62_not,not ,1240,NOT,?,62
+63_one,one ,1493,ONE,*seː(m),63
+64_person,person ,683,PERSON,?,64
+65_rain,rain ,2108,RAINING OR RAIN,?,65
+66_red,red ,156,RED,*chiːl-tɨ-k ?,66
+67_road,road ,667,ROAD,*oh-tlɨ,67
+68_root,root ,670,ROOT,*nelwa-tl ?,68
+69_round,round ,1395,ROUND,*yawal-tɨ-k ?,69
+70_sand,sand ,671,SAND,*xaːl-lɨ,70
+71_say,say ,1458,SAY,?,71
+72_see,see ,1409,SEE,*­ɨhta,72
+73_seed,seed ,714,SEED,*aːch-tlɨ,73
+74_sit,sit ,1416,SIT,*mo-tlalɨ-ha,74
+75_skin,skin ,763,SKIN,*eːwa-tl,75
+76_sleep,sleep ,1585,SLEEP,*kochɨ,76
+77_small,small ,1246,SMALL,-,77
+78_smoke,smoke ,778,SMOKE (EXHAUST),*poːk-tlɨ ?,78
+79_stand,stand ,1442,STAND,*kɨtza,79
+80_star,star ,1430,STAR,*sitlalɨ-m,80
+81_stone,stone ,857,STONE,*tə-tl,81
+82_sun,sun ,1343,SUN,?,82
+83_swim,swim ,1439,SWIM,?,83
+84_tail,tail ,1220,TAIL,*-kwitla-pɨl,84
+85_that,that ,78,THAT,*oːn- ?,85
+86_this,this ,1214,THIS,*in- ?,86
+87_thou,thou ,1215,THOU,*təha,87
+88_tongue,tongue ,1205,TONGUE,*-nɨnɨ-pɨl,88
+89_tooth,tooth ,1380,TOOTH,*-tlan,89
+90_tree,tree ,906,TREE,*kwa-wɨ-tl,90
+91_two,two ,1498,TWO,*oːmə,91
+92_walkgo,walk (go) ,1443,WALK,*nɨh-nɨmi,92
+93_warmhot,warm (hot) ,2272,HOT OR WARM,*to-toːnɨ-k ?,93
+94_water,water ,948,WATER,*aː-tl,94
+95_we,we ,1212,WE,*təha-mɨ-t,95
+96_what,what ,1236,WHAT,*tla-(hi ?),96
+97_white,white ,1335,WHITE,*istaː-kɨ ?,97
+98_who,who ,1235,WHO,*aːk,98
+99_woman,woman ,962,WOMAN,*si/owaː-tl,99
+100_yellow,yellow,1424,YELLOW,*kos-tɨ-k ?,100
