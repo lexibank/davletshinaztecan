@@ -28,17 +28,17 @@ Conceptlists in Concepticon:
 - **Cognacy:** 854 cognates in 173 cognate sets (54 singletons)
 - **Cognate Diversity:** 0.10
 - **Invalid lexemes:** 0
-- **Tokens:** 5,186
-- **Segments:** 42 (0 BIPA errors, 0 CTLS sound class errors, 42 CLTS modified)
-- **Inventory size (avg):** 25.11
+- **Tokens:** 4,735
+- **Segments:** 45 (0 BIPA errors, 0 CTLS sound class errors, 45 CLTS modified)
+- **Inventory size (avg):** 26.67
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-Simon J. Greenhill | @SimonGreenhill | maintainer | Author
-Tiago Tresoldi | @tresoldi | maintainer | Author
-Albert Davletshin | | data collection and curation | DataCurator, DataCollector
+Johann-Mattis List | @LinguList | maintainer | Other 
+Simon J. Greenhill | @SimonGreenhill | maintainer | Other
+Tiago Tresoldi | @tresoldi | maintainer | Other
+Albert Davletshin | | data collection and curation | DataCurator, DataCollector, Author
 
 

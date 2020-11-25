@@ -1,4 +1,12 @@
 Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
+^-	NULL
+-$	NULL
+ht	ʰt
+^*-	NULL
+-_$	NULL
+kx	kx
+_?$	NULL
+-_?$	NULL
 *	NULL	NULL	NULL	87	U+002A	"*tlahi-tl,*wehey,*ɨs-tlɨ"	PA
 ?	NULL	NULL	NULL	11	U+003F	"*in- ?,*nelwa-tl ?,pix-t?"	PA,Poch
 -	+	_	Marker	675	U+002D	"-un-i,toːtoː-tl,tzon-kal"	CNa,JNa,MNa,NPN,PA,PNa,Pip,Poch,TNa
@@ -53,3 +61,11 @@ uː	uː	Y	Vowel	12	U+0075 U+02D0	"-kech-kuːyu,puːk-ti,tuːtu-t"	JNa,Pip
 ɨh	ɨ h	I H	Vowel Consonant	3	U+0268 U+0068	"*-kɨh-tzoma,*-ɨhtɨ,*nɨh-nɨmi"	PA
 -ht	+ h t	_ H T	Marker Consonant Consonant	2	U+002D U+0068 U+0074	"-hta,-htoa"	TNa
 aːh	aː h	A H	Vowel Consonant	7	U+0061 U+02D0 U+0068	"*toːkaːhɨ-tl,taːhli,xaːhli"	JNa,MNa,PA,PNa
+hm	hm/m̥
+hn	hn/n̥
+hŋ	hŋ̊
+tz	ts
+tl	tɬ
+_	+
+_$	NULL
+^_	NULL

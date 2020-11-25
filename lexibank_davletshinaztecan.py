@@ -30,6 +30,7 @@ class Dataset(BaseDataset):
         missing_data=["*", "---", "-"],
         separators=";/,~",
         strip_inside_brackets=True,
+        replacements=[(" ", "_")],
         brackets={"(": ")"},
         first_form_only=True,
     )

@@ -1,6 +1,18 @@
 {
     "contributors": [
         {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
             "name": "Albert Davletshin",
             "type": "DataCurator"
         },
@@ -23,13 +35,7 @@
     "upload_type": "dataset",
     "creators": [
         {
-            "name": "Johann-Mattis List"
-        },
-        {
-            "name": "Simon J. Greenhill"
-        },
-        {
-            "name": "Tiago Tresoldi"
+            "name": "Albert Davletshin"
         }
     ],
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Davletshin, Albert (2012): Proto-Uto-Aztecans on their way to the Proto-Aztecan homeland: linguistic evidence. Journal of Language Relationship. 8. 1. 75-92.</p>\n</blockquote>",
