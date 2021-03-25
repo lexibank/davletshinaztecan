@@ -22,5 +22,5 @@ setup(
             "davletshinaztecan=lexibank_davletshinaztecan:Dataset"
         ]
     },
-    install_requires=["pylexibank>=2.1"],
+    install_requires=["pylexibank>=3"],
 )
