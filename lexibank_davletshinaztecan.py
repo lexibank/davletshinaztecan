@@ -19,6 +19,7 @@ class CustomConcept(Concept):
 class CustomLanguage(Language):
     Source = attr.ib(default=None)
     Location = attr.ib(default=None)
+    NameInData = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -38,9 +39,10 @@ class Dataset(BaseDataset):
     def cmd_makecldf(self, args):
         # Add bibliographic sources and collect them
         args.writer.add_sources()
-        sources = {}
+        sources, languages = {}, {}
         for language in self.languages:
-            sources[language["ID"]] = language["Source"]
+            sources[language["NameInData"]] = language["Source"]
+            languages[language["NameInData"]] = language["ID"]
             args.writer.add_language(**language)
 
         # Add concepts and collecte them
@@ -72,7 +74,7 @@ class Dataset(BaseDataset):
                     language = entry.split(" ")[0]
                     value = " ".join(entry.split(" ")[1:])
                     for lex in args.writer.add_forms_from_value(
-                        Language_ID=language,
+                        Language_ID=languages[language],
                         Parameter_ID=concepts[number],
                         Value=value,
                         Source=[sources[language]],
@@ -87,7 +89,7 @@ class Dataset(BaseDataset):
                 # add proto-aztecan form
                 if proto[number].strip() != "?":
                     for lex in args.writer.add_forms_from_value(
-                        Language_ID="PA",
+                        Language_ID=languages["PA"],
                         Parameter_ID=concepts[number],
                         Value=proto[number],
                         Source=sources["PA"],

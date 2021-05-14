@@ -1,11 +1,11 @@
-ID	Name	Location	Source	Glottocode
-PA	Proto-Aztecan		Davletshin2012	azte1234
-CNa	Classical Nahuatl	Central Mexico	Karttunen1983	clas1250
-JNa	Jalupa Nahuat	Tabasco	Garcia1967	taba1265
-MNa	Mecayapan Nahuat	Veracruz	Wolgemuth2002	isth1242
-NPN	North Puebla Nahuatl	North Puebla	Brockway2000	nort2957
-PNa	Pajapán Nahuat	Veracruz	Garcia1976	isth1241
-Pip	Pipil	El Salvador	Campbell1985	pipi1250
-Poch	Pochutec	Oaxaca	Boas1917	poch1244
-TNa	Tetelcingo Nahuatl	Morelos	Brewer1966	tete1251
-ZNa	Zacapoaxtla Nahuatl	Puebla	Key1953	high1278
+ID	NameInData	Name	Location	Source	Glottocode
+ProtoAztecan	PA	Proto-Aztecan		Davletshin2012	azte1234
+ClassicalNahuatl	CNa	Classical Nahuatl	Central Mexico	Karttunen1983	clas1250
+JalupaNahuat	JNa	Jalupa Nahuat	Tabasco	Garcia1967	taba1265
+MecayapanNahuat	MNa	Mecayapan Nahuat	Veracruz	Wolgemuth2002	isth1242
+NorthPueblaNahuatl	NPN	North Puebla Nahuatl	North Puebla	Brockway2000	nort2957
+PajapanNahuat	PNa	Pajapán Nahuat	Veracruz	Garcia1976	isth1241
+Pipil	Pip	Pipil	El Salvador	Campbell1985	pipi1250
+Pochutec	Poch	Pochutec	Oaxaca	Boas1917	poch1244
+TetelcingoNahuatl	TNa	Tetelcingo Nahuatl	Morelos	Brewer1966	tete1251
+ZacapoaxtlaNahuatl	ZNa	Zacapoaxtla Nahuatl	Puebla	Key1953	high1278

@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/davletshinaztecan",
-            "dc:created": "50cb9f8"
+            "dc:created": "119c03e"
         },
         {
             "rdf:type": "prov:Entity",
@@ -42,7 +42,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.2"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",
@@ -224,6 +224,10 @@
                     {
                         "datatype": "string",
                         "name": "Location"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "NameInData"
                     }
                 ],
                 "primaryKey": [
