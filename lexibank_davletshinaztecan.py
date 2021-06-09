@@ -1,12 +1,11 @@
-import attr
-from pathlib import Path
-from clldutils.misc import slug
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Concept, Language, FormSpec
-from lingpy import *
-from pylexibank import progressbar
-
 import re
+from pathlib import Path
+
+import attr
+from clldutils.misc import slug
+from pylexibank import Concept, Language, FormSpec
+from pylexibank import progressbar
+from pylexibank.dataset import Dataset as BaseDataset
 
 
 @attr.s
@@ -27,6 +26,7 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
+    # cross_concept_cognates = True # TODO: Verify this.
     form_spec = FormSpec(
         missing_data=["*", "---", "-"],
         separators=";/,~",
