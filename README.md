@@ -1,5 +1,7 @@
 # CLDF dataset derived from Davletshin's "Proto-Aztecan languages" from 2012
 
+[![CLDF validation](https://github.com/lexibank/davletshinaztecan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/davletshinaztecan/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -10,7 +12,7 @@ If you use these data please cite
 ## Description
 
 
-This dataset is licensed under a https://creativecommons.org/licenses/by/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://doi.org/10.31826/jlr-2012-080106
 
@@ -20,6 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/davletshinaztecan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/davletshinaztecan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
