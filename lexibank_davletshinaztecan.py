@@ -67,10 +67,14 @@ class Dataset(BaseDataset):
                 entries = re.split(
                     r"(\(-*[0-9]\))[,\.]*", line.split(" :: ")[1]
                 )
-                cogids = []
+                cogids, count, borrowing = [], 0, False
                 for i in range(0, len(entries) - 1, 2):
                     entry = entries[i].strip()
                     cogid = int(entries[i + 1][1:-1])
+                    if cogid < 0:
+                        borrowing = True
+                        cogid = len(entries)+count
+                        count += 1
                     language = entry.split(" ")[0]
                     value = " ".join(entry.split(" ")[1:])
                     for lex in args.writer.add_forms_from_value(
@@ -78,10 +82,11 @@ class Dataset(BaseDataset):
                         Parameter_ID=concepts[number],
                         Value=value,
                         Source=[sources[language]],
+                        Loan=borrowing,
                     ):
                         args.writer.add_cognate(
                             lexeme=lex,
-                            Cognateset_ID=cogid + cogidx,
+                            Cognateset_ID=cogid+cogidx,
                             Source="Davletshin2012",
                         )
                     cogids += [cogid]
@@ -103,5 +108,6 @@ class Dataset(BaseDataset):
                             )[0]
                             + cogidx,
                         )
+                        cogids += [cogid]
 
                 cogidx += max(cogids)
