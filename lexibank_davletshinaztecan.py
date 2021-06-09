@@ -26,7 +26,6 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
-    # cross_concept_cognates = True # TODO: Verify this.
     form_spec = FormSpec(
         missing_data=["*", "---", "-"],
         separators=";/,~",
@@ -104,4 +103,4 @@ class Dataset(BaseDataset):
                             + cogidx,
                         )
 
-                cogidx += max(cogids)
+                cogidx += max(cogids) + 2
