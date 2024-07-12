@@ -11,7 +11,7 @@ ProtoAztecan-1_alltodos-1,,ProtoAztecan,1_alltodos,*mochɨ-m,*mochɨ-m,m o tʃ �
 ClassicalNahuatl-2_ashes-1,,ClassicalNahuatl,2_ashes,nex-tli,nex-tli,n e x + tɬ i,,Karttunen1983,,false,^ n e x - tl i $,default
 TetelcingoNahuatl-2_ashes-1,,TetelcingoNahuatl,2_ashes,tlako-nex-tliː,tlako-nex-tliː,tɬ a k o + n e x + tɬ iː,,Brewer1966,,false,^ tl a k o - n e x - tl iː $,default
 NorthPueblaNahuatl-2_ashes-1,,NorthPueblaNahuatl,2_ashes,tleko-nex-tli,tleko-nex-tli,tɬ e k o + n e x + tɬ i,,Brockway2000,,false,^ tl e k o - n e x - tl i $,default
-MecayapanNahuat-2_ashes-1,,MecayapanNahuat,2_ashes,kwa-neːx,kwa-neːx,k w a + n eː x,,Wolgemuth2002,,false,^ k w a - n eː x $,default
+MecayapanNahuat-2_ashes-1,,MecayapanNahuat,2_ashes,kwa-neːx,kwa-neːx,kʷ a + n eː x,,Wolgemuth2002,,false,^ kw a - n eː x $,default
 PajapanNahuat-2_ashes-1,,PajapanNahuat,2_ashes,ba-neːx,ba-neːx,b a + n eː x,,Garcia1976,,false,^ b a - n eː x $,default
 JalupaNahuat-2_ashes-1,,JalupaNahuat,2_ashes,kó-nex-ti,kó-nex-ti,k ó/o + n e x + t i,,Garcia1967,,false,^ k ó - n e x - t i $,default
 Pipil-2_ashes-1,,Pipil,2_ashes,nex-ti,nex-ti,n e x + t i,,Campbell1985,,false,^ n e x - t i $,default
@@ -20,7 +20,7 @@ ProtoAztecan-2_ashes-1,,ProtoAztecan,2_ashes,*nɨx-tlɨ,*nɨx-tlɨ,n ɨ x + tɬ 
 ClassicalNahuatl-3_bark-1,,ClassicalNahuatl,3_bark,eːwa-tl,eːwa-tl,eː w a + tɬ,,Karttunen1983,,false,^ eː w a - tl $,default
 TetelcingoNahuatl-3_bark-1,,TetelcingoNahuatl,3_bark,yewa-yu-tl,yewa-yu-tl,j e w a + j u + tɬ,,Brewer1966,,false,^ y e w a - y u - tl $,default
 NorthPueblaNahuatl-3_bark-1,,NorthPueblaNahuatl,3_bark,-yewa-yo,-yewa-yo,j e w a + j o,,Brockway2000,,false,^- y e w a - y o $,default
-MecayapanNahuat-3_bark-1,,MecayapanNahuat,3_bark,kwa-kahloː-ʔ,kwa-kahloː-ʔ,k w a + k a h l oː + ʔ,,Wolgemuth2002,,false,^ k w a - k ah l oː - ʔ $,default
+MecayapanNahuat-3_bark-1,,MecayapanNahuat,3_bark,kwa-kahloː-ʔ,kwa-kahloː-ʔ,kʷ a + k a h l oː + ʔ,,Wolgemuth2002,,false,^ kw a - k ah l oː - ʔ $,default
 PajapanNahuat-3_bark-1,,PajapanNahuat,3_bark,-ba-gahlo,-ba-gahlo,b a + g a h l o,,Garcia1976,,false,^- b a - g ah l o $,default
 JalupaNahuat-3_bark-1,,JalupaNahuat,3_bark,-sul-koi,-sul-koi,s u l + k o i,,Garcia1967,,false,^- s u l - k o i $,default
 Pipil-3_bark-1,,Pipil,3_bark,-eːwa-yu,-eːwa-yu,eː w a + j u,,Campbell1985,,false,^- eː w a - y u $,default
@@ -53,9 +53,9 @@ ProtoAztecan-6_bird-1,,ProtoAztecan,6_bird,*toːtoː-tl,*toːtoː-tl,t oː t oː
 ClassicalNahuatl-7_bite-1,,ClassicalNahuatl,7_bite,-keʔtzom(a),-keʔtzom,k e ʔ ts o m,,Karttunen1983,,false,^- k e ʔ tz o m $,default
 TetelcingoNahuatl-7_bite-1,,TetelcingoNahuatl,7_bite,-ketzoma,-ketzoma,k e ts o m a,,Brewer1966,,false,^- k e tz o m a $,default
 NorthPueblaNahuatl-7_bite-1,,NorthPueblaNahuatl,7_bite,-tlan-kechiya,-tlan-kechiya,tɬ a n + k e tʃ i j a,,Brockway2000,,false,^- tl a n - k e ch i y a $,default
-MecayapanNahuat-7_bite-1,,MecayapanNahuat,7_bite,-tan-kwa,-tan-kwa,t a n + k w a,,Wolgemuth2002,,false,^- t a n - k w a $,default
+MecayapanNahuat-7_bite-1,,MecayapanNahuat,7_bite,-tan-kwa,-tan-kwa,t a n + kʷ a,,Wolgemuth2002,,false,^- t a n - kw a $,default
 PajapanNahuat-7_bite-1,,PajapanNahuat,7_bite,-tam-ba,-tam-ba,t a m + b a,,Garcia1976,,false,^- t a m - b a $,default
-Pipil-7_bite-1,,Pipil,7_bite,-tan-kwa,-tan-kwa,t a n + k w a,,Campbell1985,,false,^- t a n - k w a $,default
+Pipil-7_bite-1,,Pipil,7_bite,-tan-kwa,-tan-kwa,t a n + kʷ a,,Campbell1985,,false,^- t a n - kw a $,default
 ProtoAztecan-7_bite-1,,ProtoAztecan,7_bite,*-kɨh-tzoma,*-kɨh-tzoma,k ɨ h + ts o m a,,Davletshin2012,,,^*- k ɨh - tz o m a $,default
 ClassicalNahuatl-8_black-1,,ClassicalNahuatl,8_black,tliːl-tik,tliːl-tik,tɬ iː l + t i k,,Karttunen1983,,false,^ tl iː l - t i k $,default
 TetelcingoNahuatl-8_black-1,,TetelcingoNahuatl,8_black,"tlil-tiːk, kapotz-tiːk",tlil-tiːk,tɬ i l + t iː k,,Brewer1966,,false,^ tl i l - t iː k $,default
@@ -189,15 +189,15 @@ JalupaNahuat-22_earth-1,,JalupaNahuat,22_earth,tahli,tahli,t a h l i,,Garcia1967
 Pipil-22_earth-1,,Pipil,22_earth,taːl,taːl,t aː l,,Campbell1985,,false,^ t aː l $,default
 Pochutec-22_earth-1,,Pochutec,22_earth,tal,tal,t a l,,Boas1917,,false,^ t a l $,default
 ProtoAztecan-22_earth-1,,ProtoAztecan,22_earth,*tlaːl-lɨ,*tlaːl-lɨ,tɬ aː l + l ɨ,,Davletshin2012,,,^ * tl aː l - l ɨ $,default
-ClassicalNahuatl-23_eat-1,,ClassicalNahuatl,23_eat,-kwaː,-kwaː,k w aː,,Karttunen1983,,false,^- k w aː $,default
-TetelcingoNahuatl-23_eat-1,,TetelcingoNahuatl,23_eat,-kwa,-kwa,k w a,,Brewer1966,,false,^- k w a $,default
-NorthPueblaNahuatl-23_eat-1,,NorthPueblaNahuatl,23_eat,-kwa,-kwa,k w a,,Brockway2000,,false,^- k w a $,default
-MecayapanNahuat-23_eat-1,,MecayapanNahuat,23_eat,-kwa,-kwa,k w a,,Wolgemuth2002,,false,^- k w a $,default
+ClassicalNahuatl-23_eat-1,,ClassicalNahuatl,23_eat,-kwaː,-kwaː,kʷ aː,,Karttunen1983,,false,^- kw aː $,default
+TetelcingoNahuatl-23_eat-1,,TetelcingoNahuatl,23_eat,-kwa,-kwa,kʷ a,,Brewer1966,,false,^- kw a $,default
+NorthPueblaNahuatl-23_eat-1,,NorthPueblaNahuatl,23_eat,-kwa,-kwa,kʷ a,,Brockway2000,,false,^- kw a $,default
+MecayapanNahuat-23_eat-1,,MecayapanNahuat,23_eat,-kwa,-kwa,kʷ a,,Wolgemuth2002,,false,^- kw a $,default
 PajapanNahuat-23_eat-1,,PajapanNahuat,23_eat,-baː,-baː,b aː,,Garcia1976,,false,^- b aː $,default
 JalupaNahuat-23_eat-1,,JalupaNahuat,23_eat,-bwaː,-bwaː,b w aː,,Garcia1967,,false,^- b w aː $,default
-Pipil-23_eat-1,,Pipil,23_eat,kwa,kwa,k w a,,Campbell1985,,false,^ k w a $,default
-Pochutec-23_eat-1,,Pochutec,23_eat,kwa,kwa,k w a,,Boas1917,,false,^ k w a $,default
-ProtoAztecan-23_eat-1,,ProtoAztecan,23_eat,*-kwa-haː,*-kwa-haː,k w a + h aː,,Davletshin2012,,,^*- k w a -h aː $,default
+Pipil-23_eat-1,,Pipil,23_eat,kwa,kwa,kʷ a,,Campbell1985,,false,^ kw a $,default
+Pochutec-23_eat-1,,Pochutec,23_eat,kwa,kwa,kʷ a,,Boas1917,,false,^ kw a $,default
+ProtoAztecan-23_eat-1,,ProtoAztecan,23_eat,*-kwa-haː,*-kwa-haː,kʷ a + h aː,,Davletshin2012,,,^*- kw a -h aː $,default
 ClassicalNahuatl-24_egg-1,,ClassicalNahuatl,24_egg,toːtol-te-tl,toːtol-te-tl,t oː t o l + t e + tɬ,,Karttunen1983,,false,^ t oː t o l - t e - tl $,default
 TetelcingoNahuatl-24_egg-1,,TetelcingoNahuatl,24_egg,tutol-tetl,tutol-tetl,t u t o l + t e tɬ,,Brewer1966,,false,^ t u t o l - t e tl $,default
 NorthPueblaNahuatl-24_egg-1,,NorthPueblaNahuatl,24_egg,totol-te-tl,totol-te-tl,t o t o l + t e + tɬ,,Brockway2000,,false,^ t o t o l - t e - tl $,default
@@ -282,9 +282,9 @@ JalupaNahuat-33_givetr-1,,JalupaNahuat,33_givetr,-ma,-ma,m a,,Garcia1967,,false,
 Pipil-33_givetr-1,,Pipil,33_givetr,-maka,-maka,m a k a,,Campbell1985,,false,^- m a k a $,default
 Pochutec-33_givetr-1,,Pochutec,33_givetr,-meká,-meká,m e k á/a,,Boas1917,,false,^- m e k á $,default
 ProtoAztecan-33_givetr-1,,ProtoAztecan,33_givetr,*-maka,*-maka,m a k a,,Davletshin2012,,,^*- m a k a $,default
-ClassicalNahuatl-34_good-1,,ClassicalNahuatl,34_good,kwal-li,kwal-li,k w a l + l i,,Karttunen1983,,false,^ k w a l - l i $,default
-TetelcingoNahuatl-34_good-1,,TetelcingoNahuatl,34_good,kwaliː,kwaliː,k w a l iː,,Brewer1966,,false,^ k w a l iː $,default
-NorthPueblaNahuatl-34_good-1,,NorthPueblaNahuatl,34_good,kwali,kwali,k w a l i,,Brockway2000,,false,^ k w a l i $,default
+ClassicalNahuatl-34_good-1,,ClassicalNahuatl,34_good,kwal-li,kwal-li,kʷ a l + l i,,Karttunen1983,,false,^ kw a l - l i $,default
+TetelcingoNahuatl-34_good-1,,TetelcingoNahuatl,34_good,kwaliː,kwaliː,kʷ a l iː,,Brewer1966,,false,^ kw a l iː $,default
+NorthPueblaNahuatl-34_good-1,,NorthPueblaNahuatl,34_good,kwali,kwali,kʷ a l i,,Brockway2000,,false,^ kw a l i $,default
 MecayapanNahuat-34_good-1,,MecayapanNahuat,34_good,yeːk-ti,yeːk-ti,j eː k + t i,,Wolgemuth2002,,false,^ y eː k - t i $,default
 PajapanNahuat-34_good-1,,PajapanNahuat,34_good,yek-ti,yek-ti,j e k + t i,,Garcia1976,,false,^ y e k - t i $,default
 JalupaNahuat-34_good-1,,JalupaNahuat,34_good,yek-ti,yek-ti,j e k + t i,,Garcia1967,,false,^ y e k - t i $,default
@@ -319,15 +319,15 @@ JalupaNahuat-37_hand-1,,JalupaNahuat,37_hand,-maː-n,-maː-n,m aː + n,,Garcia19
 Pipil-37_hand-1,,Pipil,37_hand,-mey,-mey,m e j,,Campbell1985,,false,^- m e y $,default
 Pochutec-37_hand-1,,Pochutec,37_hand,maí,maí,m a í/i,,Boas1917,,false,^ m a í $,default
 ProtoAztecan-37_hand-1,,ProtoAztecan,37_hand,*-mah,*-mah,m a h,,Davletshin2012,,,^*- m ah $,default
-ClassicalNahuatl-38_head-1,,ClassicalNahuatl,38_head,kwaː(i)-tl,kwaː-tl,k w aː + tɬ,,Karttunen1983,,false,^ k w aː - tl $,default
+ClassicalNahuatl-38_head-1,,ClassicalNahuatl,38_head,kwaː(i)-tl,kwaː-tl,kʷ aː + tɬ,,Karttunen1983,,false,^ kw aː - tl $,default
 TetelcingoNahuatl-38_head-1,,TetelcingoNahuatl,38_head,-tzon-teko,-tzon-teko,ts o n + t e k o,,Brewer1966,,false,^- tz o n - t e k o $,default
 NorthPueblaNahuatl-38_head-1,,NorthPueblaNahuatl,38_head,-tzon-teko,-tzon-teko,ts o n + t e k o,,Brockway2000,,false,^- tz o n - t e k o $,default
 MecayapanNahuat-38_head-1,,MecayapanNahuat,38_head,-tzon-tekon,-tzon-tekon,ts o n + t e k o n,,Wolgemuth2002,,false,^- tz o n - t e k o n $,default
 PajapanNahuat-38_head-1,,PajapanNahuat,38_head,-tzon-tegon,-tzon-tegon,ts o n + t e g o n,,Garcia1976,,false,^- tz o n - t e g o n $,default
 JalupaNahuat-38_head-1,,JalupaNahuat,38_head,tzun-tekon,tzun-tekon,ts u n + t e k o n,,Garcia1967,,false,^ tz u n - t e k o n $,default
 Pipil-38_head-1,,Pipil,38_head,tzun-tekuma-t,tzun-tekuma-t,ts u n + t e k u m a + t,,Campbell1985,,false,^ tz u n - t e k u m a - t $,default
-Pochutec-38_head-1,,Pochutec,38_head,kwaí-t,kwaí-t,k w a í/i + t,,Boas1917,,false,^ k w a í - t $,default
-ProtoAztecan-38_head-1,,ProtoAztecan,38_head,*-kwah,*-kwah,k w a h,,Davletshin2012,,,^*- k w ah $,default
+Pochutec-38_head-1,,Pochutec,38_head,kwaí-t,kwaí-t,kʷ a í/i + t,,Boas1917,,false,^ kw a í - t $,default
+ProtoAztecan-38_head-1,,ProtoAztecan,38_head,*-kwah,*-kwah,kʷ a h,,Davletshin2012,,,^*- kw ah $,default
 ClassicalNahuatl-39_hear-1,,ClassicalNahuatl,39_hear,-kak(i),-kak,k a k,,Karttunen1983,,false,^- k a k $,default
 TetelcingoNahuatl-39_hear-1,,TetelcingoNahuatl,39_hear,-kakiː,-kakiː,k a k iː,,Brewer1966,,false,^- k a k iː $,default
 NorthPueblaNahuatl-39_hear-1,,NorthPueblaNahuatl,39_hear,-kaki,-kaki,k a k i,,Brockway2000,,false,^- k a k i $,default
@@ -346,9 +346,9 @@ JalupaNahuat-40_heart-1,,JalupaNahuat,40_heart,yuh-lu,yuh-lu,j u h + l u,,Garcia
 Pipil-40_heart-1,,Pipil,40_heart,-yu(ː)l,-yul,j u l,,Campbell1985,,true,^- y u l $,default
 Pochutec-40_heart-1,,Pochutec,40_heart,/n/-olyú (mi corazón),n,n,,Boas1917,,true,^ n $,default
 ProtoAztecan-40_heart-1,,ProtoAztecan,40_heart,*-yoːl,*-yoːl,j oː l,,Davletshin2012,,,^*- y oː l $,default
-ClassicalNahuatl-41_horn-1,,ClassicalNahuatl,41_horn,kwaːkwaw(i)-tl,kwaːkwaw-tl,k w aː k w a w + tɬ,,Karttunen1983,,false,^ k w aː k w a w - tl $,default
-NorthPueblaNahuatl-41_horn-1,,NorthPueblaNahuatl,41_horn,-kwakow,-kwakow,k w a k o w,,Brockway2000,,false,^- k w a k o w $,default
-MecayapanNahuat-41_horn-1,,MecayapanNahuat,41_horn,kwaːkwa,kwaːkwa,k w aː k w a,,Wolgemuth2002,,false,^ k w aː k w a $,default
+ClassicalNahuatl-41_horn-1,,ClassicalNahuatl,41_horn,kwaːkwaw(i)-tl,kwaːkwaw-tl,kʷ aː kʷ a w + tɬ,,Karttunen1983,,false,^ kw aː kw a w - tl $,default
+NorthPueblaNahuatl-41_horn-1,,NorthPueblaNahuatl,41_horn,-kwakow,-kwakow,kʷ a k o w,,Brockway2000,,false,^- kw a k o w $,default
+MecayapanNahuat-41_horn-1,,MecayapanNahuat,41_horn,kwaːkwa,kwaːkwa,kʷ aː kʷ a,,Wolgemuth2002,,false,^ kw aː kw a $,default
 PajapanNahuat-41_horn-1,,PajapanNahuat,41_horn,-baːbaː,-baːbaː,b aː b aː,,Garcia1976,,false,^- b aː b aː $,default
 JalupaNahuat-41_horn-1,,JalupaNahuat,41_horn,kokoit,kokoit,k o k o i t,,Garcia1967,,false,^ k o k o i t $,default
 Pipil-41_horn-1,,Pipil,41_horn,-kachoh (Spanish loan),-kachoh_,k a tʃ o h,,Campbell1985,,true,^- k a ch oh _$,default
@@ -370,14 +370,14 @@ JalupaNahuat-43_kill-1,,JalupaNahuat,43_kill,-mik-ti,-mik-ti,m i k + t i,,Garcia
 Pipil-43_kill-1,,Pipil,43_kill,-mik-tia,-mik-tia,m i k + t i a,,Campbell1985,,false,^- m i k - t i a $,default
 Pochutec-43_kill-1,,Pochutec,43_kill,moktí,moktí,m o k t í/i,,Boas1917,,false,^ m o k t í $,default
 ProtoAztecan-43_kill-1,,ProtoAztecan,43_kill,*mɨk-tɨ-ha,*mɨk-tɨ-ha,m ɨ k + t ɨ + h a,,Davletshin2012,,,^ * m ɨ k - t ɨ -h a $,default
-ClassicalNahuatl-44_knee-1,,ClassicalNahuatl,44_knee,tlan-kwai-,tlan-kwai-,tɬ a n + k w a i,,Karttunen1983,,false,^ tl a n - k w a i -$,default
-TetelcingoNahuatl-44_knee-1,,TetelcingoNahuatl,44_knee,-tlan-kwate,-tlan-kwate,tɬ a n + k w a t e,,Brewer1966,,false,^- tl a n - k w a t e $,default
-NorthPueblaNahuatl-44_knee-1,,NorthPueblaNahuatl,44_knee,-tlan-kwa,-tlan-kwa,tɬ a n + k w a,,Brockway2000,,false,^- tl a n - k w a $,default
-MecayapanNahuat-44_knee-1,,MecayapanNahuat,44_knee,tan-kwaː-ʔ,tan-kwaː-ʔ,t a n + k w aː + ʔ,,Wolgemuth2002,,false,^ t a n - k w aː - ʔ $,default
+ClassicalNahuatl-44_knee-1,,ClassicalNahuatl,44_knee,tlan-kwai-,tlan-kwai-,tɬ a n + kʷ a i,,Karttunen1983,,false,^ tl a n - kw a i -$,default
+TetelcingoNahuatl-44_knee-1,,TetelcingoNahuatl,44_knee,-tlan-kwate,-tlan-kwate,tɬ a n + kʷ a t e,,Brewer1966,,false,^- tl a n - kw a t e $,default
+NorthPueblaNahuatl-44_knee-1,,NorthPueblaNahuatl,44_knee,-tlan-kwa,-tlan-kwa,tɬ a n + kʷ a,,Brockway2000,,false,^- tl a n - kw a $,default
+MecayapanNahuat-44_knee-1,,MecayapanNahuat,44_knee,tan-kwaː-ʔ,tan-kwaː-ʔ,t a n + kʷ aː + ʔ,,Wolgemuth2002,,false,^ t a n - kw aː - ʔ $,default
 PajapanNahuat-44_knee-1,,PajapanNahuat,44_knee,-tam-ba,-tam-ba,t a m + b a,,Garcia1976,,false,^- t a m - b a $,default
 JalupaNahuat-44_knee-1,,JalupaNahuat,44_knee,-tam-bwa-n,-tam-bwa-n,t a m + b w a + n,,Garcia1967,,false,^- t a m - b w a - n $,default
 Pipil-44_knee-1,,Pipil,44_knee,-tewahka,-tewahka,t e w a h k a,,Campbell1985,,false,^- t e w ah k a $,default
-ProtoAztecan-44_knee-1,,ProtoAztecan,44_knee,*-tlan-kwah,*-tlan-kwah,tɬ a n + k w a h,,Davletshin2012,,,^*- tl a n - k w ah $,default
+ProtoAztecan-44_knee-1,,ProtoAztecan,44_knee,*-tlan-kwah,*-tlan-kwah,tɬ a n + kʷ a h,,Davletshin2012,,,^*- tl a n - kw ah $,default
 ClassicalNahuatl-45_know-1,,ClassicalNahuatl,45_know,mat(i),mat,m a t,,Karttunen1983,,false,^ m a t $,default
 TetelcingoNahuatl-45_know-1,,TetelcingoNahuatl,45_know,-matiː,-matiː,m a t iː,,Brewer1966,,false,^- m a t iː $,default
 NorthPueblaNahuatl-45_know-1,,NorthPueblaNahuatl,45_know,-mati,-mati,m a t i,,Brockway2000,,false,^- m a t i $,default
@@ -496,14 +496,14 @@ JalupaNahuat-58_neck-1,,JalupaNahuat,58_neck,-kech,-kech,k e tʃ,,Garcia1967,,fa
 Pipil-58_neck-1,,Pipil,58_neck,-kech-kuːyu,-kech-kuːyu,k e tʃ + k uː j u,,Campbell1985,,false,^- k e ch - k uː y u $,default
 Pochutec-58_neck-1,,Pochutec,58_neck,kox-t (pescuezo),kox-t_,k o x + t,,Boas1917,,false,^ k o x - t _$,default
 ProtoAztecan-58_neck-1,,ProtoAztecan,58_neck,*kəch-tlɨ,*kəch-tlɨ,k ə tʃ + tɬ ɨ,,Davletshin2012,,,^ * k ə ch - tl ɨ $,default
-ClassicalNahuatl-59_new-1,,ClassicalNahuatl,59_new,yankwi-k,yankwi-k,j a n k w i + k,,Karttunen1983,,false,^ y a n k w i - k $,default
-TetelcingoNahuatl-59_new-1,,TetelcingoNahuatl,59_new,yankwiː-k,yankwiː-k,j a n k w iː + k,,Brewer1966,,false,^ y a n k w iː - k $,default
-NorthPueblaNahuatl-59_new-1,,NorthPueblaNahuatl,59_new,yankwi-k,yankwi-k,j a n k w i + k,,Brockway2000,,false,^ y a n k w i - k $,default
-MecayapanNahuat-59_new-1,,MecayapanNahuat,59_new,yamkwi-ʔ,yamkwi-ʔ,j a m k w i + ʔ,,Wolgemuth2002,,false,^ y a m k w i - ʔ $,default
+ClassicalNahuatl-59_new-1,,ClassicalNahuatl,59_new,yankwi-k,yankwi-k,j a n kʷ i + k,,Karttunen1983,,false,^ y a n kw i - k $,default
+TetelcingoNahuatl-59_new-1,,TetelcingoNahuatl,59_new,yankwiː-k,yankwiː-k,j a n kʷ iː + k,,Brewer1966,,false,^ y a n kw iː - k $,default
+NorthPueblaNahuatl-59_new-1,,NorthPueblaNahuatl,59_new,yankwi-k,yankwi-k,j a n kʷ i + k,,Brockway2000,,false,^ y a n kw i - k $,default
+MecayapanNahuat-59_new-1,,MecayapanNahuat,59_new,yamkwi-ʔ,yamkwi-ʔ,j a m kʷ i + ʔ,,Wolgemuth2002,,false,^ y a m kw i - ʔ $,default
 PajapanNahuat-59_new-1,,PajapanNahuat,59_new,yambi-k,yambi-k,j a m b i + k,,Garcia1976,,false,^ y a m b i - k $,default
 JalupaNahuat-59_new-1,,JalupaNahuat,59_new,yambwi-k,yambwi-k,j a m b w i + k,,Garcia1967,,false,^ y a m b w i - k $,default
-Pipil-59_new-1,,Pipil,59_new,yankwi-k,yankwi-k,j a n k w i + k,,Campbell1985,,false,^ y a n k w i - k $,default
-ProtoAztecan-59_new-1,,ProtoAztecan,59_new,*yankwi-k,*yankwi-k,j a n k w i + k,,Davletshin2012,,,^ * y a n k w i - k $,default
+Pipil-59_new-1,,Pipil,59_new,yankwi-k,yankwi-k,j a n kʷ i + k,,Campbell1985,,false,^ y a n kw i - k $,default
+ProtoAztecan-59_new-1,,ProtoAztecan,59_new,*yankwi-k,*yankwi-k,j a n kʷ i + k,,Davletshin2012,,,^ * y a n kw i - k $,default
 ClassicalNahuatl-60_night-1,,ClassicalNahuatl,60_night,yowal-li,yowal-li,j o w a l + l i,,Karttunen1983,,false,^ y o w a l - l i $,default
 TetelcingoNahuatl-60_night-1,,TetelcingoNahuatl,60_night,yowaliː,yowaliː,j o w a l iː,,Brewer1966,,false,^ y o w a l iː $,default
 NorthPueblaNahuatl-60_night-1,,NorthPueblaNahuatl,60_night,yowali,yowali,j o w a l i,,Brockway2000,,false,^ y o w a l i $,default
@@ -636,7 +636,7 @@ MecayapanNahuat-75_skin-1,,MecayapanNahuat,75_skin,kahloː-ʔ,kahloː-ʔ,k a h l
 PajapanNahuat-75_skin-1,,PajapanNahuat,75_skin,-betax,-betax,b e t a x,,Garcia1976,,false,^- b e t a x $,default
 JalupaNahuat-75_skin-1,,JalupaNahuat,75_skin,bwéraxti,bwéraxti,b w é/e r a x t i,,Garcia1967,,false,^ b w é r a x t i $,default
 Pipil-75_skin-1,,Pipil,75_skin,-eːwayu,-eːwayu,eː w a j u,,Campbell1985,,false,^- eː w a y u $,default
-Pochutec-75_skin-1,,Pochutec,75_skin,kwetéx-t,kwetéx-t,k w e t é/e x + t,,Boas1917,,false,^ k w e t é x - t $,default
+Pochutec-75_skin-1,,Pochutec,75_skin,kwetéx-t,kwetéx-t,kʷ e t é/e x + t,,Boas1917,,false,^ kw e t é x - t $,default
 ProtoAztecan-75_skin-1,,ProtoAztecan,75_skin,*eːwa-tl,*eːwa-tl,eː w a + tɬ,,Davletshin2012,,,^ * eː w a - tl $,default
 ClassicalNahuatl-76_sleep-1,,ClassicalNahuatl,76_sleep,koch(i),koch,k o tʃ,,Karttunen1983,,false,^ k o ch $,default
 TetelcingoNahuatl-76_sleep-1,,TetelcingoNahuatl,76_sleep,kochiː,kochiː,k o tʃ iː,,Brewer1966,,false,^ k o ch iː $,default
@@ -703,14 +703,14 @@ TetelcingoNahuatl-83_swim-1,,TetelcingoNahuatl,83_swim,m-ö-biːlöna,m-ö-biːl
 NorthPueblaNahuatl-83_swim-1,,NorthPueblaNahuatl,83_swim,m-al-tiya,m-al-tiya,m + a l + t i j a,,Brockway2000,,false,^ m - a l - t i y a $,default
 MecayapanNahuat-83_swim-1,,MecayapanNahuat,83_swim,"aː-pataːni (water-fly), aː-hkitiá (ir flotando)",aː-pataːni_,aː + p a t aː n i,,Wolgemuth2002,,false,^ aː - p a t aː n i _$,default
 PajapanNahuat-83_swim-1,,PajapanNahuat,83_swim,-aːhkia,-aːhkia,aː h k i a,,Garcia1976,,false,^- aːh k i a $,default
-ClassicalNahuatl-84_tail-1,,ClassicalNahuatl,84_tail,kwitlapil-li,kwitlapil-li,k w i tɬ a p i l + l i,,Karttunen1983,,false,^ k w i tl a p i l - l i $,default
-TetelcingoNahuatl-84_tail-1,,TetelcingoNahuatl,84_tail,-kwiːtlapiːl,-kwiːtlapiːl,k w iː tɬ a p iː l,,Brewer1966,,false,^- k w iː tl a p iː l $,default
-NorthPueblaNahuatl-84_tail-1,,NorthPueblaNahuatl,84_tail,-kwitlapil,-kwitlapil,k w i tɬ a p i l,,Brockway2000,,false,^- k w i tl a p i l $,default
-MecayapanNahuat-84_tail-1,,MecayapanNahuat,84_tail,kwitapiːl,kwitapiːl,k w i t a p iː l,,Wolgemuth2002,,false,^ k w i t a p iː l $,default
+ClassicalNahuatl-84_tail-1,,ClassicalNahuatl,84_tail,kwitlapil-li,kwitlapil-li,kʷ i tɬ a p i l + l i,,Karttunen1983,,false,^ kw i tl a p i l - l i $,default
+TetelcingoNahuatl-84_tail-1,,TetelcingoNahuatl,84_tail,-kwiːtlapiːl,-kwiːtlapiːl,kʷ iː tɬ a p iː l,,Brewer1966,,false,^- kw iː tl a p iː l $,default
+NorthPueblaNahuatl-84_tail-1,,NorthPueblaNahuatl,84_tail,-kwitlapil,-kwitlapil,kʷ i tɬ a p i l,,Brockway2000,,false,^- kw i tl a p i l $,default
+MecayapanNahuat-84_tail-1,,MecayapanNahuat,84_tail,kwitapiːl,kwitapiːl,kʷ i t a p iː l,,Wolgemuth2002,,false,^ kw i t a p iː l $,default
 PajapanNahuat-84_tail-1,,PajapanNahuat,84_tail,-bitapil,-bitapil,b i t a p i l,,Garcia1976,,false,^- b i t a p i l $,default
 JalupaNahuat-84_tail-1,,JalupaNahuat,84_tail,-bwirapil,-bwirapil,b w i r a p i l,,Garcia1967,,false,^- b w i r a p i l $,default
-Pipil-84_tail-1,,Pipil,84_tail,-kwitlapil,-kwitlapil,k w i tɬ a p i l,,Campbell1985,,false,^- k w i tl a p i l $,default
-ProtoAztecan-84_tail-1,,ProtoAztecan,84_tail,*-kwitla-pɨl,*-kwitla-pɨl,k w i tɬ a + p ɨ l,,Davletshin2012,,,^*- k w i tl a - p ɨ l $,default
+Pipil-84_tail-1,,Pipil,84_tail,-kwitlapil,-kwitlapil,kʷ i tɬ a p i l,,Campbell1985,,false,^- kw i tl a p i l $,default
+ProtoAztecan-84_tail-1,,ProtoAztecan,84_tail,*-kwitla-pɨl,*-kwitla-pɨl,kʷ i tɬ a + p ɨ l,,Davletshin2012,,,^*- kw i tl a - p ɨ l $,default
 ClassicalNahuatl-85_that-1,,ClassicalNahuatl,85_that,in-oːn,in-oːn,i n + oː n,,Karttunen1983,,false,^ i n - oː n $,default
 TetelcingoNahuatl-85_that-1,,TetelcingoNahuatl,85_that,"iːn-u, nieka, iːnu nieka",iːn-u,iː n + u,,Brewer1966,,false,^ iː n - u $,default
 NorthPueblaNahuatl-85_that-1,,NorthPueblaNahuatl,85_that,in-on,in-on,i n + o n,,Brockway2000,,false,^ i n - o n $,default
@@ -755,15 +755,15 @@ PajapanNahuat-89_tooth-1,,PajapanNahuat,89_tooth,-tan,-tan,t a n,,Garcia1976,,fa
 JalupaNahuat-89_tooth-1,,JalupaNahuat,89_tooth,-taːn,-taːn,t aː n,,Garcia1967,,false,^- t aː n $,default
 Pipil-89_tooth-1,,Pipil,89_tooth,-tan,-tan,t a n,,Campbell1985,,false,^- t a n $,default
 ProtoAztecan-89_tooth-1,,ProtoAztecan,89_tooth,*-tlan,*-tlan,tɬ a n,,Davletshin2012,,,^*- tl a n $,default
-ClassicalNahuatl-90_tree-1,,ClassicalNahuatl,90_tree,kwaw(i)-tl,kwaw-tl,k w a w + tɬ,,Karttunen1983,,false,^ k w a w - tl $,default
-TetelcingoNahuatl-90_tree-1,,TetelcingoNahuatl,90_tree,kwabiː-tl,kwabiː-tl,k w a b iː + tɬ,,Brewer1966,,false,^ k w a b iː - tl $,default
+ClassicalNahuatl-90_tree-1,,ClassicalNahuatl,90_tree,kwaw(i)-tl,kwaw-tl,kʷ a w + tɬ,,Karttunen1983,,false,^ kw a w - tl $,default
+TetelcingoNahuatl-90_tree-1,,TetelcingoNahuatl,90_tree,kwabiː-tl,kwabiː-tl,kʷ a b iː + tɬ,,Brewer1966,,false,^ kw a b iː - tl $,default
 NorthPueblaNahuatl-90_tree-1,,NorthPueblaNahuatl,90_tree,kowi-tl,kowi-tl,k o w i + tɬ,,Brockway2000,,false,^ k o w i - tl $,default
-MecayapanNahuat-90_tree-1,,MecayapanNahuat,90_tree,kwawi-ʔ,kwawi-ʔ,k w a w i + ʔ,,Wolgemuth2002,,false,^ k w a w i - ʔ $,default
+MecayapanNahuat-90_tree-1,,MecayapanNahuat,90_tree,kwawi-ʔ,kwawi-ʔ,kʷ a w i + ʔ,,Wolgemuth2002,,false,^ kw a w i - ʔ $,default
 PajapanNahuat-90_tree-1,,PajapanNahuat,90_tree,bawi-t,bawi-t,b a w i + t,,Garcia1976,,false,^ b a w i - t $,default
 JalupaNahuat-90_tree-1,,JalupaNahuat,90_tree,koi-t,koi-t,k o i + t,,Garcia1967,,false,^ k o i - t $,default
-Pipil-90_tree-1,,Pipil,90_tree,kwawi-t,kwawi-t,k w a w i + t,,Campbell1985,,false,^ k w a w i - t $,default
-Pochutec-90_tree-1,,Pochutec,90_tree,kwagú-t,kwagú-t,k w a g ú/u + t,,Boas1917,,false,^ k w a g ú - t $,default
-ProtoAztecan-90_tree-1,,ProtoAztecan,90_tree,*kwa-wɨ-tl,*kwa-wɨ-tl,k w a + w ɨ + tɬ,,Davletshin2012,,,^ * k w a - w ɨ - tl $,default
+Pipil-90_tree-1,,Pipil,90_tree,kwawi-t,kwawi-t,kʷ a w i + t,,Campbell1985,,false,^ kw a w i - t $,default
+Pochutec-90_tree-1,,Pochutec,90_tree,kwagú-t,kwagú-t,kʷ a g ú/u + t,,Boas1917,,false,^ kw a g ú - t $,default
+ProtoAztecan-90_tree-1,,ProtoAztecan,90_tree,*kwa-wɨ-tl,*kwa-wɨ-tl,kʷ a + w ɨ + tɬ,,Davletshin2012,,,^ * kw a - w ɨ - tl $,default
 ClassicalNahuatl-91_two-1,,ClassicalNahuatl,91_two,oːme,oːme,oː m e,,Karttunen1983,,false,^ oː m e $,default
 TetelcingoNahuatl-91_two-1,,TetelcingoNahuatl,91_two,ume,ume,u m e,,Brewer1966,,false,^ u m e $,default
 NorthPueblaNahuatl-91_two-1,,NorthPueblaNahuatl,91_two,ome,ome,o m e,,Brockway2000,,false,^ o m e $,default
