@@ -29,25 +29,26 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 9
-- **Concepts:** 100
+- **Varieties:** 9 (linked to 9 different Glottocodes)
+- **Concepts:** 100 (linked to 100 different Concepticon concept sets)
 - **Lexemes:** 854
 - **Sources:** 9
 - **Synonymy:** 1.00
 - **Cognacy:** 854 cognates in 201 cognate sets (83 singletons)
 - **Cognate Diversity:** 0.13
 - **Invalid lexemes:** 0
-- **Tokens:** 4,735
-- **Segments:** 45 (0 BIPA errors, 0 CTLS sound class errors, 45 CLTS modified)
-- **Inventory size (avg):** 26.67
+- **Tokens:** 4,689
+- **Segments:** 46 (0 BIPA errors, 0 CLTS sound class errors, 46 CLTS modified)
+- **Inventory size (avg):** 27.44
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other 
-Simon J. Greenhill | @SimonGreenhill | maintainer | Other
-Tiago Tresoldi | @tresoldi | maintainer | Other
+Johann-Mattis List | @LinguList | maintainer | Editor
+Simon J. Greenhill | @SimonGreenhill | maintainer | Editor
+Frederic Blum | @FredericBlum | maintainer | Editor
+Tiago Tresoldi | @tresoldi | Orthography conversion, mapping | Other
 Albert Davletshin | | data collection and curation | DataCurator, DataCollector, Author
 
 

@@ -26,6 +26,8 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     form_spec = FormSpec(
         missing_data=["*", "---", "-"],
         separators=";/,~",
